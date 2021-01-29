@@ -1,0 +1,11815 @@
+
+
+
+
+
+
+
+
+Airliner.txt	0
+Airliner.txt	1
+Airliner.txt	2
+Airliner.txt	3
+Airliner.txt	4
+Airliner.txt	5
+Airliner.txt	7
+Airliner.txt	8
+Airliner.txt	9
+Airliner.txt	11
+Airliner.txt	15
+Airliner.txt	19
+Amanda.txt	0
+Amanda.txt	1
+Amanda.txt	3
+Amanda.txt	4
+Amanda.txt	5
+Amanda.txt	6
+Amanda.txt	7
+Amanda.txt	8
+Amanda.txt	9
+Amanda.txt	11
+Amanda.txt	12
+Amanda.txt	13
+Amanda.txt	14
+Amanda.txt	15
+Amanda.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChristianTheLion.txt	0
+ChristianTheLion.txt	2
+ChristianTheLion.txt	3
+ChristianTheLion.txt	4
+ChristianTheLion.txt	5
+ChristianTheLion.txt	6
+ChristianTheLion.txt	7
+ChristianTheLion.txt	9
+ChristianTheLion.txt	10
+ChristianTheLion.txt	11
+ChristianTheLion.txt	12
+ChristianTheLion.txt	13
+ChristianTheLion.txt	14
+ChristianTheLion.txt	15
+ChristianTheLion.txt	16
+ChristianTheLion.txt	17
+ChristianTheLion.txt	18
+ChristianTheLion.txt	19
+
+
+Dell.txt	0
+Dell.txt	4
+Dell.txt	5
+Dell.txt	9
+Dell.txt	18
+Dell.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E102.txt	0
+E102.txt	1
+E102.txt	2
+E102.txt	3
+E102.txt	4
+E102.txt	5
+E102.txt	6
+E102.txt	7
+E102.txt	8
+E102.txt	9
+E102.txt	10
+E102.txt	11
+E102.txt	12
+E102.txt	14
+E102.txt	16
+E102.txt	17
+E102.txt	18
+E102.txt	19
+E103.txt	0
+E103.txt	1
+E103.txt	2
+E103.txt	3
+E103.txt	7
+E103.txt	18
+E103.txt	19
+
+
+
+
+
+E107.txt	0
+E107.txt	1
+E107.txt	2
+E107.txt	3
+E107.txt	4
+E107.txt	8
+E107.txt	11
+E107.txt	12
+E107.txt	13
+E107.txt	14
+E107.txt	15
+E107.txt	16
+E107.txt	17
+E107.txt	18
+E107.txt	19
+E108.txt	0
+E108.txt	8
+E108.txt	9
+E108.txt	10
+E108.txt	11
+E108.txt	19
+E109.txt	0
+E109.txt	1
+E109.txt	2
+E109.txt	3
+E109.txt	4
+E109.txt	6
+E109.txt	7
+E109.txt	8
+E109.txt	9
+E109.txt	10
+E109.txt	11
+E109.txt	12
+E109.txt	13
+E109.txt	14
+E109.txt	15
+E109.txt	16
+E109.txt	17
+E109.txt	18
+E109.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E112.txt	0
+E112.txt	1
+E112.txt	2
+E112.txt	3
+E112.txt	4
+E112.txt	5
+E112.txt	6
+E112.txt	7
+E112.txt	10
+E112.txt	12
+E112.txt	14
+E112.txt	15
+E112.txt	18
+E112.txt	19
+E113.txt	0
+E113.txt	1
+E113.txt	2
+E113.txt	3
+E113.txt	4
+E113.txt	5
+E113.txt	6
+E113.txt	7
+E113.txt	8
+E113.txt	9
+E113.txt	10
+E113.txt	11
+E113.txt	12
+E113.txt	13
+E113.txt	14
+E113.txt	15
+E113.txt	16
+E113.txt	17
+E113.txt	18
+E113.txt	19
+E114.txt	0
+E114.txt	1
+E114.txt	2
+E114.txt	3
+E114.txt	4
+E114.txt	5
+E114.txt	7
+E114.txt	9
+E114.txt	19
+E115.txt	0
+E115.txt	2
+E115.txt	3
+E115.txt	5
+E115.txt	8
+E115.txt	9
+E115.txt	10
+E115.txt	11
+E115.txt	12
+E115.txt	13
+E115.txt	14
+E115.txt	15
+E115.txt	16
+E115.txt	17
+E115.txt	18
+E115.txt	19
+E117.txt	0
+E117.txt	1
+E117.txt	2
+E117.txt	3
+E117.txt	4
+E117.txt	5
+E117.txt	6
+E117.txt	7
+E117.txt	8
+E117.txt	9
+E117.txt	10
+E117.txt	11
+E117.txt	12
+E117.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E129.txt	0
+E129.txt	1
+E129.txt	2
+E129.txt	3
+E129.txt	4
+E129.txt	5
+E129.txt	6
+E129.txt	7
+E129.txt	8
+E129.txt	9
+E129.txt	10
+E129.txt	11
+E129.txt	12
+E129.txt	13
+E129.txt	14
+E129.txt	15
+E129.txt	16
+E129.txt	17
+E129.txt	19
+E130.txt	0
+E130.txt	1
+E130.txt	2
+E130.txt	3
+E130.txt	4
+E130.txt	5
+E130.txt	7
+E130.txt	19
+E131.txt	0
+E131.txt	1
+E131.txt	2
+E131.txt	3
+E131.txt	4
+E131.txt	5
+E131.txt	6
+E131.txt	7
+E131.txt	9
+E131.txt	11
+E131.txt	13
+E131.txt	14
+E131.txt	18
+E131.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E141.txt	0
+E141.txt	1
+E141.txt	2
+E141.txt	3
+E141.txt	4
+E141.txt	5
+E141.txt	6
+E141.txt	7
+E141.txt	8
+E141.txt	9
+E141.txt	10
+E141.txt	11
+E141.txt	12
+E141.txt	13
+E141.txt	14
+E141.txt	15
+E141.txt	17
+E141.txt	18
+E141.txt	19
+E143.txt	0
+E143.txt	1
+E143.txt	2
+E143.txt	3
+E143.txt	4
+E143.txt	5
+E143.txt	6
+E143.txt	7
+E143.txt	8
+E143.txt	9
+E143.txt	10
+E143.txt	11
+E143.txt	14
+E143.txt	15
+E143.txt	16
+E143.txt	19
+E144.txt	0
+E144.txt	1
+E144.txt	2
+E144.txt	3
+E144.txt	4
+E144.txt	5
+E144.txt	6
+E144.txt	7
+E144.txt	8
+E144.txt	9
+E144.txt	10
+E144.txt	11
+E144.txt	12
+E144.txt	13
+E144.txt	14
+E144.txt	15
+E144.txt	16
+E144.txt	17
+E144.txt	18
+E144.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E148.txt	0
+E148.txt	2
+E148.txt	18
+E148.txt	19
+
+
+
+
+
+
+
+E150.txt	0
+E150.txt	1
+E150.txt	2
+E150.txt	3
+E150.txt	4
+E150.txt	5
+E150.txt	6
+E150.txt	7
+E150.txt	8
+E150.txt	9
+E150.txt	10
+E150.txt	11
+E150.txt	12
+E150.txt	13
+E150.txt	14
+E150.txt	15
+E150.txt	16
+E150.txt	17
+E150.txt	18
+E150.txt	19
+
+
+
+
+
+E152.txt	0
+E152.txt	1
+E152.txt	2
+E152.txt	5
+E152.txt	7
+E152.txt	9
+E152.txt	11
+E152.txt	12
+E152.txt	13
+E152.txt	14
+E152.txt	15
+E152.txt	16
+E152.txt	17
+E152.txt	18
+E152.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E155.txt	0
+E155.txt	7
+E155.txt	8
+E155.txt	9
+E155.txt	10
+E155.txt	11
+E155.txt	12
+E155.txt	13
+E155.txt	14
+E155.txt	15
+E155.txt	16
+E155.txt	17
+E155.txt	18
+E155.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E160.txt	0
+E160.txt	1
+E160.txt	2
+E160.txt	3
+E160.txt	4
+E160.txt	5
+E160.txt	6
+E160.txt	7
+E160.txt	8
+E160.txt	9
+E160.txt	12
+E160.txt	13
+E160.txt	15
+E160.txt	16
+E160.txt	17
+E160.txt	19
+E161.txt	0
+E161.txt	1
+E161.txt	2
+E161.txt	3
+E161.txt	4
+E161.txt	5
+E161.txt	6
+E161.txt	7
+E161.txt	8
+E161.txt	9
+E161.txt	10
+E161.txt	11
+E161.txt	12
+E161.txt	14
+E161.txt	15
+E161.txt	17
+E161.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E163.txt	0
+E163.txt	1
+E163.txt	2
+E163.txt	3
+E163.txt	4
+E163.txt	5
+E163.txt	6
+E163.txt	7
+E163.txt	8
+E163.txt	9
+E163.txt	10
+E163.txt	11
+E163.txt	19
+
+
+
+
+
+E165.txt	0
+E165.txt	10
+E165.txt	11
+E165.txt	12
+E165.txt	13
+E165.txt	14
+E165.txt	15
+E165.txt	16
+E165.txt	17
+E165.txt	18
+E165.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E17.txt	0
+E17.txt	1
+E17.txt	2
+E17.txt	4
+E17.txt	12
+E17.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E172.txt	0
+E172.txt	1
+E172.txt	3
+E172.txt	4
+E172.txt	5
+E172.txt	6
+E172.txt	7
+E172.txt	8
+E172.txt	9
+E172.txt	10
+E172.txt	11
+E172.txt	12
+E172.txt	13
+E172.txt	14
+E172.txt	15
+E172.txt	16
+E172.txt	17
+E172.txt	18
+E172.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E178.txt	0
+E178.txt	1
+E178.txt	2
+E178.txt	3
+E178.txt	7
+E178.txt	19
+
+
+
+
+
+
+
+E180.txt	0
+E180.txt	1
+E180.txt	2
+E180.txt	3
+E180.txt	4
+E180.txt	5
+E180.txt	6
+E180.txt	7
+E180.txt	8
+E180.txt	9
+E180.txt	10
+E180.txt	11
+E180.txt	13
+E180.txt	16
+E180.txt	17
+E180.txt	18
+E180.txt	19
+E181.txt	0
+E181.txt	1
+E181.txt	2
+E181.txt	5
+E181.txt	7
+E181.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E184.txt	0
+E184.txt	5
+E184.txt	6
+E184.txt	7
+E184.txt	8
+E184.txt	9
+E184.txt	10
+E184.txt	11
+E184.txt	12
+E184.txt	13
+E184.txt	14
+E184.txt	15
+E184.txt	16
+E184.txt	17
+E184.txt	18
+E184.txt	19
+E185.txt	0
+E185.txt	1
+E185.txt	2
+E185.txt	3
+E185.txt	5
+E185.txt	6
+E185.txt	10
+E185.txt	11
+E185.txt	13
+E185.txt	16
+E185.txt	19
+E186.txt	0
+E186.txt	1
+E186.txt	2
+E186.txt	3
+E186.txt	5
+E186.txt	6
+E186.txt	7
+E186.txt	8
+E186.txt	9
+E186.txt	10
+E186.txt	11
+E186.txt	12
+E186.txt	13
+E186.txt	14
+E186.txt	15
+E186.txt	16
+E186.txt	17
+E186.txt	18
+E186.txt	19
+
+
+
+
+
+
+
+E188.txt	0
+E188.txt	1
+E188.txt	2
+E188.txt	3
+E188.txt	4
+E188.txt	5
+E188.txt	6
+E188.txt	7
+E188.txt	8
+E188.txt	9
+E188.txt	10
+E188.txt	11
+E188.txt	12
+E188.txt	13
+E188.txt	14
+E188.txt	15
+E188.txt	16
+E188.txt	17
+E188.txt	18
+E188.txt	19
+
+
+
+
+
+
+
+E19.txt	0
+E19.txt	1
+E19.txt	2
+E19.txt	3
+E19.txt	4
+E19.txt	5
+E19.txt	6
+E19.txt	7
+E19.txt	8
+E19.txt	10
+E19.txt	11
+E19.txt	12
+E19.txt	13
+E19.txt	14
+E19.txt	16
+E19.txt	18
+E19.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E191.txt	0
+E191.txt	1
+E191.txt	2
+E191.txt	3
+E191.txt	4
+E191.txt	5
+E191.txt	6
+E191.txt	7
+E191.txt	9
+E191.txt	10
+E191.txt	12
+E191.txt	15
+E191.txt	18
+E191.txt	19
+E193.txt	0
+E193.txt	4
+E193.txt	7
+E193.txt	8
+E193.txt	9
+E193.txt	10
+E193.txt	11
+E193.txt	12
+E193.txt	13
+E193.txt	14
+E193.txt	15
+E193.txt	16
+E193.txt	17
+E193.txt	18
+E193.txt	19
+E196.txt	0
+E196.txt	4
+E196.txt	8
+E196.txt	13
+E196.txt	19
+
+
+
+
+
+
+
+E198.txt	0
+E198.txt	1
+E198.txt	2
+E198.txt	3
+E198.txt	6
+E198.txt	9
+E198.txt	19
+E199.txt	0
+E199.txt	1
+E199.txt	2
+E199.txt	3
+E199.txt	4
+E199.txt	5
+E199.txt	6
+E199.txt	7
+E199.txt	8
+E199.txt	9
+E199.txt	10
+E199.txt	11
+E199.txt	12
+E199.txt	13
+E199.txt	14
+E199.txt	15
+E199.txt	16
+E199.txt	17
+E199.txt	18
+E199.txt	19
+E201.txt	0
+E201.txt	1
+E201.txt	9
+E201.txt	14
+E201.txt	15
+E201.txt	17
+E201.txt	19
+E202.txt	0
+E202.txt	1
+E202.txt	3
+E202.txt	4
+E202.txt	5
+E202.txt	6
+E202.txt	7
+E202.txt	9
+E202.txt	10
+E202.txt	13
+E202.txt	14
+E202.txt	15
+E202.txt	16
+E202.txt	17
+E202.txt	18
+E202.txt	19
+E203.txt	0
+E203.txt	1
+E203.txt	3
+E203.txt	4
+E203.txt	13
+E203.txt	19
+E204.txt	0
+E204.txt	1
+E204.txt	2
+E204.txt	3
+E204.txt	6
+E204.txt	9
+E204.txt	18
+E204.txt	19
+E205.txt	0
+E205.txt	1
+E205.txt	2
+E205.txt	3
+E205.txt	4
+E205.txt	6
+E205.txt	7
+E205.txt	8
+E205.txt	11
+E205.txt	12
+E205.txt	13
+E205.txt	17
+E205.txt	18
+E205.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E215.txt	0
+E215.txt	1
+E215.txt	2
+E215.txt	3
+E215.txt	5
+E215.txt	6
+E215.txt	7
+E215.txt	8
+E215.txt	10
+E215.txt	11
+E215.txt	12
+E215.txt	13
+E215.txt	14
+E215.txt	15
+E215.txt	16
+E215.txt	17
+E215.txt	18
+E215.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E217.txt	0
+E217.txt	1
+E217.txt	7
+E217.txt	8
+E217.txt	9
+E217.txt	10
+E217.txt	11
+E217.txt	12
+E217.txt	13
+E217.txt	14
+E217.txt	15
+E217.txt	16
+E217.txt	17
+E217.txt	18
+E217.txt	19
+E218.txt	0
+E218.txt	5
+E218.txt	6
+E218.txt	7
+E218.txt	8
+E218.txt	9
+E218.txt	10
+E218.txt	11
+E218.txt	12
+E218.txt	13
+E218.txt	14
+E218.txt	15
+E218.txt	16
+E218.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E220.txt	0
+E220.txt	1
+E220.txt	2
+E220.txt	3
+E220.txt	4
+E220.txt	5
+E220.txt	6
+E220.txt	10
+E220.txt	19
+E222.txt	0
+E222.txt	1
+E222.txt	2
+E222.txt	8
+E222.txt	9
+E222.txt	10
+E222.txt	11
+E222.txt	12
+E222.txt	13
+E222.txt	14
+E222.txt	15
+E222.txt	16
+E222.txt	17
+E222.txt	18
+E222.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E227.txt	0
+E227.txt	1
+E227.txt	2
+E227.txt	3
+E227.txt	4
+E227.txt	5
+E227.txt	6
+E227.txt	7
+E227.txt	8
+E227.txt	9
+E227.txt	10
+E227.txt	11
+E227.txt	12
+E227.txt	13
+E227.txt	14
+E227.txt	15
+E227.txt	16
+E227.txt	17
+E227.txt	18
+E227.txt	19
+E228.txt	0
+E228.txt	1
+E228.txt	2
+E228.txt	3
+E228.txt	5
+E228.txt	19
+E229.txt	0
+E229.txt	1
+E229.txt	2
+E229.txt	3
+E229.txt	4
+E229.txt	5
+E229.txt	6
+E229.txt	7
+E229.txt	8
+E229.txt	9
+E229.txt	10
+E229.txt	11
+E229.txt	12
+E229.txt	13
+E229.txt	14
+E229.txt	15
+E229.txt	16
+E229.txt	17
+E229.txt	18
+E229.txt	19
+
+
+
+
+
+
+
+E231.txt	0
+E231.txt	3
+E231.txt	4
+E231.txt	5
+E231.txt	6
+E231.txt	7
+E231.txt	8
+E231.txt	11
+E231.txt	19
+
+
+
+
+
+
+
+
+E234.txt	0
+E234.txt	1
+E234.txt	2
+E234.txt	3
+E234.txt	4
+E234.txt	6
+E234.txt	9
+E234.txt	10
+E234.txt	13
+E234.txt	14
+E234.txt	16
+E234.txt	19
+E236.txt	0
+E236.txt	1
+E236.txt	2
+E236.txt	3
+E236.txt	4
+E236.txt	5
+E236.txt	6
+E236.txt	7
+E236.txt	9
+E236.txt	10
+E236.txt	12
+E236.txt	15
+E236.txt	17
+E236.txt	19
+E237.txt	0
+E237.txt	1
+E237.txt	2
+E237.txt	3
+E237.txt	4
+E237.txt	6
+E237.txt	7
+E237.txt	9
+E237.txt	10
+E237.txt	11
+E237.txt	12
+E237.txt	13
+E237.txt	14
+E237.txt	15
+E237.txt	16
+E237.txt	17
+E237.txt	18
+E237.txt	19
+
+
+
+
+E24.txt	0
+E24.txt	1
+E24.txt	2
+E24.txt	3
+E24.txt	4
+E24.txt	5
+E24.txt	6
+E24.txt	7
+E24.txt	9
+E24.txt	12
+E24.txt	13
+E24.txt	15
+E24.txt	19
+E241.txt	0
+E241.txt	1
+E241.txt	2
+E241.txt	3
+E241.txt	4
+E241.txt	5
+E241.txt	6
+E241.txt	7
+E241.txt	8
+E241.txt	9
+E241.txt	10
+E241.txt	11
+E241.txt	12
+E241.txt	13
+E241.txt	14
+E241.txt	15
+E241.txt	16
+E241.txt	17
+E241.txt	18
+E241.txt	19
+E242.txt	0
+E242.txt	1
+E242.txt	2
+E242.txt	3
+E242.txt	4
+E242.txt	5
+E242.txt	6
+E242.txt	7
+E242.txt	8
+E242.txt	9
+E242.txt	10
+E242.txt	11
+E242.txt	12
+E242.txt	13
+E242.txt	14
+E242.txt	15
+E242.txt	16
+E242.txt	17
+E242.txt	18
+E242.txt	19
+E243.txt	0
+E243.txt	1
+E243.txt	2
+E243.txt	3
+E243.txt	4
+E243.txt	5
+E243.txt	6
+E243.txt	7
+E243.txt	8
+E243.txt	10
+E243.txt	11
+E243.txt	13
+E243.txt	16
+E243.txt	18
+E243.txt	19
+
+
+
+E245.txt	0
+E245.txt	1
+E245.txt	2
+E245.txt	3
+E245.txt	4
+E245.txt	5
+E245.txt	6
+E245.txt	7
+E245.txt	8
+E245.txt	9
+E245.txt	10
+E245.txt	11
+E245.txt	14
+E245.txt	16
+E245.txt	18
+E245.txt	19
+E246.txt	0
+E246.txt	1
+E246.txt	2
+E246.txt	3
+E246.txt	4
+E246.txt	5
+E246.txt	8
+E246.txt	13
+E246.txt	14
+E246.txt	15
+E246.txt	16
+E246.txt	17
+E246.txt	18
+E246.txt	19
+
+
+
+
+
+E249.txt	0
+E249.txt	1
+E249.txt	2
+E249.txt	3
+E249.txt	6
+E249.txt	8
+E249.txt	10
+E249.txt	11
+E249.txt	12
+E249.txt	13
+E249.txt	14
+E249.txt	15
+E249.txt	16
+E249.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E255.txt	0
+E255.txt	9
+E255.txt	10
+E255.txt	11
+E255.txt	12
+E255.txt	13
+E255.txt	14
+E255.txt	15
+E255.txt	16
+E255.txt	17
+E255.txt	19
+E256.txt	0
+E256.txt	1
+E256.txt	2
+E256.txt	3
+E256.txt	4
+E256.txt	5
+E256.txt	19
+
+
+
+
+
+
+
+
+E259.txt	0
+E259.txt	2
+E259.txt	3
+E259.txt	4
+E259.txt	5
+E259.txt	10
+E259.txt	11
+E259.txt	12
+E259.txt	13
+E259.txt	14
+E259.txt	16
+E259.txt	17
+E259.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E260.txt	0
+E260.txt	1
+E260.txt	4
+E260.txt	5
+E260.txt	6
+E260.txt	7
+E260.txt	8
+E260.txt	9
+E260.txt	10
+E260.txt	12
+E260.txt	13
+E260.txt	14
+E260.txt	15
+E260.txt	17
+E260.txt	18
+E260.txt	19
+
+
+
+
+
+
+
+E263.txt	0
+E263.txt	1
+E263.txt	2
+E263.txt	3
+E263.txt	4
+E263.txt	5
+E263.txt	6
+E263.txt	7
+E263.txt	8
+E263.txt	9
+E263.txt	10
+E263.txt	12
+E263.txt	14
+E263.txt	15
+E263.txt	16
+E263.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E269.txt	0
+E269.txt	5
+E269.txt	8
+E269.txt	9
+E269.txt	11
+E269.txt	12
+E269.txt	13
+E269.txt	17
+E269.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E271.txt	0
+E271.txt	1
+E271.txt	2
+E271.txt	3
+E271.txt	4
+E271.txt	5
+E271.txt	6
+E271.txt	8
+E271.txt	9
+E271.txt	10
+E271.txt	11
+E271.txt	12
+E271.txt	13
+E271.txt	14
+E271.txt	15
+E271.txt	16
+E271.txt	19
+E272.txt	0
+E272.txt	1
+E272.txt	4
+E272.txt	5
+E272.txt	6
+E272.txt	7
+E272.txt	8
+E272.txt	9
+E272.txt	10
+E272.txt	11
+E272.txt	12
+E272.txt	13
+E272.txt	14
+E272.txt	15
+E272.txt	16
+E272.txt	17
+E272.txt	18
+E272.txt	19
+E274.txt	0
+E274.txt	1
+E274.txt	2
+E274.txt	3
+E274.txt	4
+E274.txt	5
+E274.txt	7
+E274.txt	8
+E274.txt	9
+E274.txt	10
+E274.txt	11
+E274.txt	12
+E274.txt	13
+E274.txt	17
+E274.txt	19
+
+
+
+
+
+
+
+
+E276.txt	0
+E276.txt	1
+E276.txt	4
+E276.txt	6
+E276.txt	7
+E276.txt	11
+E276.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E282.txt	0
+E282.txt	1
+E282.txt	2
+E282.txt	3
+E282.txt	4
+E282.txt	5
+E282.txt	6
+E282.txt	7
+E282.txt	8
+E282.txt	9
+E282.txt	10
+E282.txt	11
+E282.txt	12
+E282.txt	13
+E282.txt	14
+E282.txt	15
+E282.txt	16
+E282.txt	18
+E282.txt	19
+E283.txt	0
+E283.txt	1
+E283.txt	14
+E283.txt	15
+E283.txt	16
+E283.txt	17
+E283.txt	18
+E283.txt	19
+
+
+
+
+
+
+
+E285.txt	0
+E285.txt	1
+E285.txt	2
+E285.txt	3
+E285.txt	4
+E285.txt	5
+E285.txt	6
+E285.txt	9
+E285.txt	14
+E285.txt	18
+E285.txt	19
+E286.txt	0
+E286.txt	1
+E286.txt	2
+E286.txt	3
+E286.txt	4
+E286.txt	5
+E286.txt	6
+E286.txt	7
+E286.txt	8
+E286.txt	9
+E286.txt	10
+E286.txt	11
+E286.txt	12
+E286.txt	13
+E286.txt	14
+E286.txt	15
+E286.txt	16
+E286.txt	17
+E286.txt	18
+E286.txt	19
+
+
+
+
+
+
+
+E29.txt	0
+E29.txt	1
+E29.txt	2
+E29.txt	3
+E29.txt	4
+E29.txt	5
+E29.txt	6
+E29.txt	7
+E29.txt	8
+E29.txt	11
+E29.txt	12
+E29.txt	13
+E29.txt	14
+E29.txt	15
+E29.txt	16
+E29.txt	19
+
+
+E291.txt	0
+E291.txt	1
+E291.txt	2
+E291.txt	3
+E291.txt	4
+E291.txt	5
+E291.txt	6
+E291.txt	7
+E291.txt	8
+E291.txt	9
+E291.txt	10
+E291.txt	11
+E291.txt	12
+E291.txt	13
+E291.txt	14
+E291.txt	15
+E291.txt	16
+E291.txt	17
+E291.txt	18
+E291.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E298.txt	0
+E298.txt	1
+E298.txt	2
+E298.txt	3
+E298.txt	4
+E298.txt	5
+E298.txt	6
+E298.txt	7
+E298.txt	8
+E298.txt	9
+E298.txt	13
+E298.txt	14
+E298.txt	15
+E298.txt	16
+E298.txt	19
+
+
+
+
+E300.txt	0
+E300.txt	1
+E300.txt	2
+E300.txt	3
+E300.txt	4
+E300.txt	5
+E300.txt	10
+E300.txt	11
+E300.txt	12
+E300.txt	13
+E300.txt	14
+E300.txt	15
+E300.txt	16
+E300.txt	17
+E300.txt	18
+E300.txt	19
+
+
+
+
+
+
+E303.txt	0
+E303.txt	1
+E303.txt	6
+E303.txt	7
+E303.txt	8
+E303.txt	9
+E303.txt	10
+E303.txt	11
+E303.txt	12
+E303.txt	13
+E303.txt	14
+E303.txt	15
+E303.txt	17
+E303.txt	18
+E303.txt	19
+
+
+
+
+
+E305.txt	0
+E305.txt	2
+E305.txt	3
+E305.txt	4
+E305.txt	5
+E305.txt	6
+E305.txt	7
+E305.txt	8
+E305.txt	9
+E305.txt	10
+E305.txt	11
+E305.txt	12
+E305.txt	13
+E305.txt	14
+E305.txt	15
+E305.txt	16
+E305.txt	17
+E305.txt	18
+E305.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E312.txt	0
+E312.txt	1
+E312.txt	2
+E312.txt	3
+E312.txt	4
+E312.txt	5
+E312.txt	6
+E312.txt	7
+E312.txt	8
+E312.txt	9
+E312.txt	10
+E312.txt	11
+E312.txt	12
+E312.txt	13
+E312.txt	14
+E312.txt	15
+E312.txt	16
+E312.txt	17
+E312.txt	18
+E312.txt	19
+E313.txt	0
+E313.txt	1
+E313.txt	2
+E313.txt	3
+E313.txt	4
+E313.txt	5
+E313.txt	6
+E313.txt	7
+E313.txt	8
+E313.txt	11
+E313.txt	16
+E313.txt	18
+E313.txt	19
+E314.txt	0
+E314.txt	1
+E314.txt	2
+E314.txt	3
+E314.txt	4
+E314.txt	5
+E314.txt	6
+E314.txt	7
+E314.txt	8
+E314.txt	9
+E314.txt	10
+E314.txt	11
+E314.txt	12
+E314.txt	17
+E314.txt	18
+E314.txt	19
+E315.txt	0
+E315.txt	1
+E315.txt	2
+E315.txt	3
+E315.txt	4
+E315.txt	5
+E315.txt	6
+E315.txt	7
+E315.txt	8
+E315.txt	9
+E315.txt	10
+E315.txt	11
+E315.txt	19
+E316.txt	0
+E316.txt	3
+E316.txt	4
+E316.txt	5
+E316.txt	6
+E316.txt	7
+E316.txt	10
+E316.txt	11
+E316.txt	19
+E317.txt	0
+E317.txt	1
+E317.txt	2
+E317.txt	6
+E317.txt	7
+E317.txt	13
+E317.txt	14
+E317.txt	19
+E318.txt	0
+E318.txt	1
+E318.txt	2
+E318.txt	3
+E318.txt	4
+E318.txt	5
+E318.txt	6
+E318.txt	7
+E318.txt	8
+E318.txt	9
+E318.txt	10
+E318.txt	11
+E318.txt	12
+E318.txt	13
+E318.txt	14
+E318.txt	15
+E318.txt	16
+E318.txt	17
+E318.txt	18
+E318.txt	19
+
+
+
+E320.txt	0
+E320.txt	1
+E320.txt	2
+E320.txt	3
+E320.txt	4
+E320.txt	5
+E320.txt	7
+E320.txt	9
+E320.txt	10
+E320.txt	11
+E320.txt	12
+E320.txt	16
+E320.txt	17
+E320.txt	18
+E320.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E322.txt	0
+E322.txt	1
+E322.txt	2
+E322.txt	5
+E322.txt	6
+E322.txt	19
+E323.txt	0
+E323.txt	1
+E323.txt	2
+E323.txt	3
+E323.txt	4
+E323.txt	5
+E323.txt	6
+E323.txt	7
+E323.txt	8
+E323.txt	9
+E323.txt	10
+E323.txt	11
+E323.txt	12
+E323.txt	13
+E323.txt	14
+E323.txt	15
+E323.txt	17
+E323.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E325.txt	0
+E325.txt	1
+E325.txt	2
+E325.txt	4
+E325.txt	5
+E325.txt	8
+E325.txt	9
+E325.txt	10
+E325.txt	11
+E325.txt	12
+E325.txt	13
+E325.txt	14
+E325.txt	15
+E325.txt	19
+E326.txt	0
+E326.txt	1
+E326.txt	2
+E326.txt	3
+E326.txt	4
+E326.txt	5
+E326.txt	6
+E326.txt	7
+E326.txt	8
+E326.txt	9
+E326.txt	10
+E326.txt	11
+E326.txt	12
+E326.txt	13
+E326.txt	14
+E326.txt	15
+E326.txt	16
+E326.txt	17
+E326.txt	18
+E326.txt	19
+E327.txt	0
+E327.txt	1
+E327.txt	2
+E327.txt	4
+E327.txt	5
+E327.txt	6
+E327.txt	9
+E327.txt	10
+E327.txt	11
+E327.txt	12
+E327.txt	13
+E327.txt	14
+E327.txt	15
+E327.txt	16
+E327.txt	17
+E327.txt	18
+E327.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E336.txt	0
+E336.txt	1
+E336.txt	2
+E336.txt	3
+E336.txt	4
+E336.txt	5
+E336.txt	6
+E336.txt	7
+E336.txt	9
+E336.txt	11
+E336.txt	19
+E338.txt	0
+E338.txt	2
+E338.txt	3
+E338.txt	5
+E338.txt	6
+E338.txt	7
+E338.txt	8
+E338.txt	9
+E338.txt	10
+E338.txt	11
+E338.txt	12
+E338.txt	13
+E338.txt	14
+E338.txt	16
+E338.txt	17
+E338.txt	18
+E338.txt	19
+
+
+
+
+
+
+
+
+
+E34.txt	0
+E34.txt	4
+E34.txt	6
+E34.txt	11
+E34.txt	14
+E34.txt	19
+E340.txt	0
+E340.txt	1
+E340.txt	2
+E340.txt	3
+E340.txt	4
+E340.txt	6
+E340.txt	7
+E340.txt	9
+E340.txt	11
+E340.txt	16
+E340.txt	17
+E340.txt	18
+E340.txt	19
+E341.txt	0
+E341.txt	1
+E341.txt	12
+E341.txt	17
+E341.txt	18
+E341.txt	19
+
+
+
+
+
+
+
+
+
+
+E343.txt	0
+E343.txt	1
+E343.txt	2
+E343.txt	3
+E343.txt	7
+E343.txt	17
+E343.txt	19
+E344.txt	0
+E344.txt	1
+E344.txt	3
+E344.txt	5
+E344.txt	6
+E344.txt	7
+E344.txt	8
+E344.txt	9
+E344.txt	12
+E344.txt	14
+E344.txt	15
+E344.txt	16
+E344.txt	18
+E344.txt	19
+E345.txt	0
+E345.txt	1
+E345.txt	2
+E345.txt	11
+E345.txt	12
+E345.txt	13
+E345.txt	14
+E345.txt	15
+E345.txt	16
+E345.txt	17
+E345.txt	18
+E345.txt	19
+E346.txt	0
+E346.txt	1
+E346.txt	2
+E346.txt	3
+E346.txt	4
+E346.txt	5
+E346.txt	6
+E346.txt	7
+E346.txt	8
+E346.txt	9
+E346.txt	10
+E346.txt	11
+E346.txt	12
+E346.txt	13
+E346.txt	14
+E346.txt	15
+E346.txt	16
+E346.txt	17
+E346.txt	18
+E346.txt	19
+E347.txt	0
+E347.txt	10
+E347.txt	12
+E347.txt	13
+E347.txt	14
+E347.txt	15
+E347.txt	16
+E347.txt	17
+E347.txt	18
+E347.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E351.txt	0
+E351.txt	1
+E351.txt	2
+E351.txt	3
+E351.txt	4
+E351.txt	6
+E351.txt	19
+E352.txt	0
+E352.txt	2
+E352.txt	3
+E352.txt	4
+E352.txt	5
+E352.txt	6
+E352.txt	7
+E352.txt	8
+E352.txt	9
+E352.txt	10
+E352.txt	11
+E352.txt	12
+E352.txt	13
+E352.txt	14
+E352.txt	15
+E352.txt	16
+E352.txt	17
+E352.txt	18
+E352.txt	19
+E355.txt	0
+E355.txt	3
+E355.txt	5
+E355.txt	10
+E355.txt	15
+E355.txt	16
+E355.txt	17
+E355.txt	18
+E355.txt	19
+
+
+
+
+
+E358.txt	0
+E358.txt	3
+E358.txt	8
+E358.txt	9
+E358.txt	11
+E358.txt	12
+E358.txt	13
+E358.txt	14
+E358.txt	15
+E358.txt	16
+E358.txt	19
+E360.txt	0
+E360.txt	1
+E360.txt	2
+E360.txt	3
+E360.txt	4
+E360.txt	5
+E360.txt	6
+E360.txt	7
+E360.txt	9
+E360.txt	10
+E360.txt	11
+E360.txt	12
+E360.txt	13
+E360.txt	15
+E360.txt	17
+E360.txt	19
+
+
+
+
+
+
+
+
+E364.txt	0
+E364.txt	1
+E364.txt	3
+E364.txt	4
+E364.txt	5
+E364.txt	6
+E364.txt	8
+E364.txt	9
+E364.txt	10
+E364.txt	11
+E364.txt	12
+E364.txt	13
+E364.txt	14
+E364.txt	15
+E364.txt	16
+E364.txt	17
+E364.txt	18
+E364.txt	19
+
+
+E368.txt	0
+E368.txt	1
+E368.txt	2
+E368.txt	3
+E368.txt	4
+E368.txt	5
+E368.txt	8
+E368.txt	9
+E368.txt	10
+E368.txt	13
+E368.txt	14
+E368.txt	18
+E368.txt	19
+
+
+
+
+
+
+E37.txt	0
+E37.txt	1
+E37.txt	2
+E37.txt	3
+E37.txt	4
+E37.txt	5
+E37.txt	6
+E37.txt	8
+E37.txt	10
+E37.txt	14
+E37.txt	15
+E37.txt	16
+E37.txt	17
+E37.txt	18
+E37.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E372.txt	0
+E372.txt	15
+E372.txt	18
+E372.txt	19
+E374.txt	0
+E374.txt	6
+E374.txt	7
+E374.txt	8
+E374.txt	9
+E374.txt	10
+E374.txt	12
+E374.txt	13
+E374.txt	19
+
+
+
+
+E378.txt	0
+E378.txt	1
+E378.txt	2
+E378.txt	3
+E378.txt	4
+E378.txt	5
+E378.txt	6
+E378.txt	7
+E378.txt	9
+E378.txt	10
+E378.txt	11
+E378.txt	12
+E378.txt	13
+E378.txt	14
+E378.txt	15
+E378.txt	16
+E378.txt	17
+E378.txt	18
+E378.txt	19
+E379.txt	0
+E379.txt	1
+E379.txt	2
+E379.txt	3
+E379.txt	4
+E379.txt	5
+E379.txt	6
+E379.txt	7
+E379.txt	8
+E379.txt	12
+E379.txt	15
+E379.txt	17
+E379.txt	19
+E380.txt	0
+E380.txt	13
+E380.txt	14
+E380.txt	15
+E380.txt	17
+E380.txt	19
+E381.txt	0
+E381.txt	1
+E381.txt	2
+E381.txt	3
+E381.txt	5
+E381.txt	6
+E381.txt	7
+E381.txt	8
+E381.txt	9
+E381.txt	10
+E381.txt	11
+E381.txt	12
+E381.txt	13
+E381.txt	14
+E381.txt	18
+E381.txt	19
+E385.txt	0
+E385.txt	1
+E385.txt	2
+E385.txt	3
+E385.txt	4
+E385.txt	5
+E385.txt	6
+E385.txt	7
+E385.txt	8
+E385.txt	9
+E385.txt	10
+E385.txt	11
+E385.txt	12
+E385.txt	13
+E385.txt	14
+E385.txt	15
+E385.txt	17
+E385.txt	18
+E385.txt	19
+
+
+E388.txt	0
+E388.txt	1
+E388.txt	2
+E388.txt	3
+E388.txt	4
+E388.txt	5
+E388.txt	6
+E388.txt	18
+E388.txt	19
+E391.txt	0
+E391.txt	1
+E391.txt	2
+E391.txt	3
+E391.txt	4
+E391.txt	5
+E391.txt	6
+E391.txt	7
+E391.txt	8
+E391.txt	9
+E391.txt	10
+E391.txt	11
+E391.txt	12
+E391.txt	13
+E391.txt	14
+E391.txt	15
+E391.txt	16
+E391.txt	17
+E391.txt	18
+E391.txt	19
+E393.txt	0
+E393.txt	1
+E393.txt	4
+E393.txt	5
+E393.txt	7
+E393.txt	8
+E393.txt	9
+E393.txt	13
+E393.txt	19
+E395.txt	0
+E395.txt	1
+E395.txt	2
+E395.txt	4
+E395.txt	5
+E395.txt	19
+E397.txt	0
+E397.txt	1
+E397.txt	2
+E397.txt	4
+E397.txt	5
+E397.txt	6
+E397.txt	7
+E397.txt	8
+E397.txt	11
+E397.txt	19
+E40.txt	0
+E40.txt	1
+E40.txt	2
+E40.txt	3
+E40.txt	4
+E40.txt	5
+E40.txt	6
+E40.txt	8
+E40.txt	9
+E40.txt	10
+E40.txt	15
+E40.txt	19
+E400.txt	0
+E400.txt	1
+E400.txt	2
+E400.txt	3
+E400.txt	4
+E400.txt	5
+E400.txt	6
+E400.txt	7
+E400.txt	8
+E400.txt	9
+E400.txt	10
+E400.txt	11
+E400.txt	13
+E400.txt	14
+E400.txt	15
+E400.txt	16
+E400.txt	17
+E400.txt	18
+E400.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E405.txt	0
+E405.txt	1
+E405.txt	2
+E405.txt	3
+E405.txt	4
+E405.txt	5
+E405.txt	6
+E405.txt	7
+E405.txt	8
+E405.txt	9
+E405.txt	10
+E405.txt	11
+E405.txt	12
+E405.txt	13
+E405.txt	14
+E405.txt	15
+E405.txt	16
+E405.txt	17
+E405.txt	18
+E405.txt	19
+
+
+
+
+
+
+
+
+
+
+E409.txt	0
+E409.txt	1
+E409.txt	2
+E409.txt	3
+E409.txt	4
+E409.txt	5
+E409.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E410.txt	0
+E410.txt	1
+E410.txt	2
+E410.txt	3
+E410.txt	4
+E410.txt	5
+E410.txt	6
+E410.txt	7
+E410.txt	8
+E410.txt	19
+E411.txt	0
+E411.txt	1
+E411.txt	2
+E411.txt	3
+E411.txt	4
+E411.txt	5
+E411.txt	6
+E411.txt	7
+E411.txt	8
+E411.txt	9
+E411.txt	10
+E411.txt	11
+E411.txt	12
+E411.txt	13
+E411.txt	14
+E411.txt	15
+E411.txt	16
+E411.txt	18
+E411.txt	19
+
+
+
+
+
+
+
+
+
+
+E413.txt	0
+E413.txt	1
+E413.txt	2
+E413.txt	5
+E413.txt	6
+E413.txt	8
+E413.txt	12
+E413.txt	14
+E413.txt	15
+E413.txt	16
+E413.txt	17
+E413.txt	19
+E414.txt	0
+E414.txt	1
+E414.txt	2
+E414.txt	3
+E414.txt	4
+E414.txt	5
+E414.txt	6
+E414.txt	19
+E416.txt	0
+E416.txt	1
+E416.txt	2
+E416.txt	3
+E416.txt	4
+E416.txt	5
+E416.txt	6
+E416.txt	8
+E416.txt	13
+E416.txt	19
+
+
+
+
+
+
+
+
+
+
+E418.txt	0
+E418.txt	1
+E418.txt	2
+E418.txt	3
+E418.txt	4
+E418.txt	5
+E418.txt	6
+E418.txt	7
+E418.txt	8
+E418.txt	9
+E418.txt	10
+E418.txt	11
+E418.txt	12
+E418.txt	13
+E418.txt	14
+E418.txt	15
+E418.txt	16
+E418.txt	17
+E418.txt	18
+E418.txt	19
+E419.txt	0
+E419.txt	1
+E419.txt	2
+E419.txt	3
+E419.txt	4
+E419.txt	5
+E419.txt	6
+E419.txt	7
+E419.txt	8
+E419.txt	9
+E419.txt	10
+E419.txt	11
+E419.txt	12
+E419.txt	13
+E419.txt	14
+E419.txt	15
+E419.txt	16
+E419.txt	17
+E419.txt	18
+E419.txt	19
+E42.txt	0
+E42.txt	1
+E42.txt	2
+E42.txt	3
+E42.txt	4
+E42.txt	5
+E42.txt	6
+E42.txt	7
+E42.txt	8
+E42.txt	9
+E42.txt	10
+E42.txt	11
+E42.txt	12
+E42.txt	13
+E42.txt	14
+E42.txt	15
+E42.txt	16
+E42.txt	17
+E42.txt	18
+E42.txt	19
+
+
+
+
+E421.txt	0
+E421.txt	1
+E421.txt	2
+E421.txt	3
+E421.txt	4
+E421.txt	5
+E421.txt	6
+E421.txt	7
+E421.txt	8
+E421.txt	9
+E421.txt	10
+E421.txt	11
+E421.txt	13
+E421.txt	14
+E421.txt	15
+E421.txt	16
+E421.txt	17
+E421.txt	18
+E421.txt	19
+E422.txt	0
+E422.txt	2
+E422.txt	3
+E422.txt	6
+E422.txt	7
+E422.txt	8
+E422.txt	11
+E422.txt	14
+E422.txt	15
+E422.txt	16
+E422.txt	19
+E423.txt	0
+E423.txt	1
+E423.txt	3
+E423.txt	4
+E423.txt	5
+E423.txt	6
+E423.txt	7
+E423.txt	8
+E423.txt	9
+E423.txt	10
+E423.txt	11
+E423.txt	12
+E423.txt	13
+E423.txt	14
+E423.txt	15
+E423.txt	16
+E423.txt	17
+E423.txt	18
+E423.txt	19
+E424.txt	0
+E424.txt	1
+E424.txt	2
+E424.txt	3
+E424.txt	4
+E424.txt	5
+E424.txt	6
+E424.txt	7
+E424.txt	8
+E424.txt	9
+E424.txt	10
+E424.txt	11
+E424.txt	12
+E424.txt	14
+E424.txt	16
+E424.txt	17
+E424.txt	19
+E425.txt	0
+E425.txt	10
+E425.txt	11
+E425.txt	12
+E425.txt	13
+E425.txt	14
+E425.txt	15
+E425.txt	16
+E425.txt	19
+
+
+
+
+
+
+E429.txt	0
+E429.txt	1
+E429.txt	2
+E429.txt	3
+E429.txt	4
+E429.txt	5
+E429.txt	6
+E429.txt	7
+E429.txt	8
+E429.txt	9
+E429.txt	10
+E429.txt	11
+E429.txt	12
+E429.txt	13
+E429.txt	14
+E429.txt	15
+E429.txt	16
+E429.txt	17
+E429.txt	18
+E429.txt	19
+
+
+
+
+
+
+
+
+E431.txt	0
+E431.txt	10
+E431.txt	11
+E431.txt	12
+E431.txt	13
+E431.txt	14
+E431.txt	15
+E431.txt	16
+E431.txt	19
+
+
+
+
+
+
+E434.txt	0
+E434.txt	1
+E434.txt	2
+E434.txt	3
+E434.txt	4
+E434.txt	5
+E434.txt	6
+E434.txt	7
+E434.txt	8
+E434.txt	9
+E434.txt	10
+E434.txt	11
+E434.txt	12
+E434.txt	13
+E434.txt	15
+E434.txt	19
+
+
+
+
+
+
+E436.txt	0
+E436.txt	1
+E436.txt	2
+E436.txt	3
+E436.txt	4
+E436.txt	5
+E436.txt	6
+E436.txt	8
+E436.txt	13
+E436.txt	19
+E438.txt	0
+E438.txt	1
+E438.txt	2
+E438.txt	3
+E438.txt	4
+E438.txt	5
+E438.txt	6
+E438.txt	7
+E438.txt	8
+E438.txt	9
+E438.txt	10
+E438.txt	11
+E438.txt	12
+E438.txt	13
+E438.txt	14
+E438.txt	16
+E438.txt	18
+E438.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E440.txt	0
+E440.txt	1
+E440.txt	4
+E440.txt	6
+E440.txt	7
+E440.txt	8
+E440.txt	19
+E441.txt	0
+E441.txt	1
+E441.txt	2
+E441.txt	3
+E441.txt	4
+E441.txt	5
+E441.txt	6
+E441.txt	7
+E441.txt	8
+E441.txt	15
+E441.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E447.txt	0
+E447.txt	1
+E447.txt	2
+E447.txt	3
+E447.txt	4
+E447.txt	5
+E447.txt	6
+E447.txt	7
+E447.txt	8
+E447.txt	9
+E447.txt	10
+E447.txt	11
+E447.txt	12
+E447.txt	13
+E447.txt	14
+E447.txt	15
+E447.txt	16
+E447.txt	17
+E447.txt	18
+E447.txt	19
+E449.txt	0
+E449.txt	8
+E449.txt	12
+E449.txt	13
+E449.txt	14
+E449.txt	15
+E449.txt	16
+E449.txt	17
+E449.txt	19
+
+
+
+
+
+
+E450.txt	0
+E450.txt	1
+E450.txt	2
+E450.txt	3
+E450.txt	4
+E450.txt	5
+E450.txt	6
+E450.txt	7
+E450.txt	8
+E450.txt	9
+E450.txt	18
+E450.txt	19
+
+
+
+
+
+
+
+
+E454.txt	0
+E454.txt	1
+E454.txt	2
+E454.txt	3
+E454.txt	5
+E454.txt	6
+E454.txt	7
+E454.txt	8
+E454.txt	9
+E454.txt	12
+E454.txt	13
+E454.txt	19
+E455.txt	0
+E455.txt	1
+E455.txt	2
+E455.txt	3
+E455.txt	4
+E455.txt	5
+E455.txt	6
+E455.txt	7
+E455.txt	8
+E455.txt	9
+E455.txt	10
+E455.txt	11
+E455.txt	12
+E455.txt	13
+E455.txt	14
+E455.txt	15
+E455.txt	16
+E455.txt	17
+E455.txt	18
+E455.txt	19
+E456.txt	0
+E456.txt	4
+E456.txt	5
+E456.txt	7
+E456.txt	8
+E456.txt	10
+E456.txt	11
+E456.txt	12
+E456.txt	13
+E456.txt	14
+E456.txt	16
+E456.txt	17
+E456.txt	18
+E456.txt	19
+E458.txt	0
+E458.txt	1
+E458.txt	2
+E458.txt	3
+E458.txt	4
+E458.txt	6
+E458.txt	7
+E458.txt	8
+E458.txt	9
+E458.txt	10
+E458.txt	11
+E458.txt	12
+E458.txt	13
+E458.txt	15
+E458.txt	19
+E459.txt	0
+E459.txt	1
+E459.txt	2
+E459.txt	3
+E459.txt	4
+E459.txt	5
+E459.txt	6
+E459.txt	7
+E459.txt	8
+E459.txt	10
+E459.txt	15
+E459.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E465.txt	0
+E465.txt	1
+E465.txt	8
+E465.txt	9
+E465.txt	10
+E465.txt	11
+E465.txt	12
+E465.txt	13
+E465.txt	14
+E465.txt	15
+E465.txt	18
+E465.txt	19
+
+
+
+
+
+
+E468.txt	0
+E468.txt	1
+E468.txt	2
+E468.txt	3
+E468.txt	4
+E468.txt	5
+E468.txt	6
+E468.txt	7
+E468.txt	8
+E468.txt	9
+E468.txt	10
+E468.txt	13
+E468.txt	14
+E468.txt	19
+E469.txt	0
+E469.txt	1
+E469.txt	2
+E469.txt	3
+E469.txt	4
+E469.txt	5
+E469.txt	6
+E469.txt	10
+E469.txt	14
+E469.txt	15
+E469.txt	18
+E469.txt	19
+E47.txt	0
+E47.txt	1
+E47.txt	2
+E47.txt	3
+E47.txt	4
+E47.txt	5
+E47.txt	6
+E47.txt	11
+E47.txt	14
+E47.txt	15
+E47.txt	16
+E47.txt	17
+E47.txt	18
+E47.txt	19
+
+
+
+
+
+
+
+
+E471.txt	0
+E471.txt	1
+E471.txt	2
+E471.txt	3
+E471.txt	4
+E471.txt	5
+E471.txt	6
+E471.txt	7
+E471.txt	8
+E471.txt	9
+E471.txt	10
+E471.txt	11
+E471.txt	12
+E471.txt	13
+E471.txt	14
+E471.txt	15
+E471.txt	16
+E471.txt	17
+E471.txt	18
+E471.txt	19
+E472.txt	0
+E472.txt	1
+E472.txt	2
+E472.txt	3
+E472.txt	4
+E472.txt	5
+E472.txt	6
+E472.txt	7
+E472.txt	8
+E472.txt	14
+E472.txt	19
+E473.txt	0
+E473.txt	1
+E473.txt	2
+E473.txt	3
+E473.txt	4
+E473.txt	5
+E473.txt	6
+E473.txt	7
+E473.txt	12
+E473.txt	13
+E473.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E477.txt	0
+E477.txt	1
+E477.txt	2
+E477.txt	3
+E477.txt	5
+E477.txt	17
+E477.txt	18
+E477.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E480.txt	0
+E480.txt	9
+E480.txt	10
+E480.txt	11
+E480.txt	12
+E480.txt	13
+E480.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E485.txt	0
+E485.txt	1
+E485.txt	2
+E485.txt	3
+E485.txt	4
+E485.txt	6
+E485.txt	8
+E485.txt	10
+E485.txt	11
+E485.txt	12
+E485.txt	15
+E485.txt	19
+E486.txt	0
+E486.txt	1
+E486.txt	2
+E486.txt	3
+E486.txt	5
+E486.txt	8
+E486.txt	13
+E486.txt	16
+E486.txt	19
+E488.txt	0
+E488.txt	2
+E488.txt	3
+E488.txt	4
+E488.txt	5
+E488.txt	6
+E488.txt	7
+E488.txt	12
+E488.txt	13
+E488.txt	14
+E488.txt	15
+E488.txt	16
+E488.txt	17
+E488.txt	18
+E488.txt	19
+E489.txt	0
+E489.txt	1
+E489.txt	2
+E489.txt	3
+E489.txt	4
+E489.txt	5
+E489.txt	6
+E489.txt	7
+E489.txt	9
+E489.txt	12
+E489.txt	13
+E489.txt	16
+E489.txt	17
+E489.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E493.txt	0
+E493.txt	1
+E493.txt	2
+E493.txt	3
+E493.txt	4
+E493.txt	5
+E493.txt	6
+E493.txt	7
+E493.txt	8
+E493.txt	9
+E493.txt	10
+E493.txt	11
+E493.txt	12
+E493.txt	13
+E493.txt	15
+E493.txt	16
+E493.txt	19
+E494.txt	0
+E494.txt	1
+E494.txt	3
+E494.txt	4
+E494.txt	9
+E494.txt	10
+E494.txt	11
+E494.txt	12
+E494.txt	13
+E494.txt	14
+E494.txt	15
+E494.txt	16
+E494.txt	17
+E494.txt	18
+E494.txt	19
+E495.txt	0
+E495.txt	1
+E495.txt	2
+E495.txt	8
+E495.txt	10
+E495.txt	13
+E495.txt	14
+E495.txt	15
+E495.txt	16
+E495.txt	17
+E495.txt	18
+E495.txt	19
+E496.txt	0
+E496.txt	13
+E496.txt	14
+E496.txt	15
+E496.txt	17
+E496.txt	19
+E497.txt	0
+E497.txt	1
+E497.txt	2
+E497.txt	3
+E497.txt	4
+E497.txt	6
+E497.txt	7
+E497.txt	8
+E497.txt	9
+E497.txt	10
+E497.txt	11
+E497.txt	13
+E497.txt	17
+E497.txt	19
+
+
+
+
+E499.txt	0
+E499.txt	8
+E499.txt	17
+E499.txt	18
+E499.txt	19
+E500.txt	0
+E500.txt	4
+E500.txt	5
+E500.txt	6
+E500.txt	7
+E500.txt	8
+E500.txt	9
+E500.txt	10
+E500.txt	12
+E500.txt	13
+E500.txt	14
+E500.txt	15
+E500.txt	16
+E500.txt	17
+E500.txt	18
+E500.txt	19
+E501.txt	0
+E501.txt	2
+E501.txt	3
+E501.txt	5
+E501.txt	6
+E501.txt	7
+E501.txt	11
+E501.txt	19
+E502.txt	0
+E502.txt	1
+E502.txt	2
+E502.txt	3
+E502.txt	4
+E502.txt	5
+E502.txt	7
+E502.txt	8
+E502.txt	9
+E502.txt	10
+E502.txt	12
+E502.txt	13
+E502.txt	14
+E502.txt	15
+E502.txt	16
+E502.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E507.txt	0
+E507.txt	5
+E507.txt	9
+E507.txt	10
+E507.txt	11
+E507.txt	12
+E507.txt	13
+E507.txt	14
+E507.txt	15
+E507.txt	17
+E507.txt	18
+E507.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E51.txt	0
+E51.txt	1
+E51.txt	2
+E51.txt	3
+E51.txt	5
+E51.txt	6
+E51.txt	7
+E51.txt	8
+E51.txt	19
+
+
+
+
+
+
+
+
+
+
+E511.txt	0
+E511.txt	1
+E511.txt	17
+E511.txt	19
+E512.txt	0
+E512.txt	1
+E512.txt	2
+E512.txt	3
+E512.txt	4
+E512.txt	5
+E512.txt	8
+E512.txt	9
+E512.txt	11
+E512.txt	12
+E512.txt	13
+E512.txt	14
+E512.txt	19
+E513.txt	0
+E513.txt	1
+E513.txt	2
+E513.txt	3
+E513.txt	4
+E513.txt	5
+E513.txt	6
+E513.txt	7
+E513.txt	8
+E513.txt	14
+E513.txt	19
+E514.txt	0
+E514.txt	1
+E514.txt	2
+E514.txt	3
+E514.txt	4
+E514.txt	5
+E514.txt	7
+E514.txt	9
+E514.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E520.txt	0
+E520.txt	1
+E520.txt	2
+E520.txt	3
+E520.txt	4
+E520.txt	6
+E520.txt	10
+E520.txt	12
+E520.txt	13
+E520.txt	14
+E520.txt	16
+E520.txt	18
+E520.txt	19
+
+
+
+
+
+
+
+
+E522.txt	0
+E522.txt	1
+E522.txt	3
+E522.txt	8
+E522.txt	11
+E522.txt	12
+E522.txt	13
+E522.txt	14
+E522.txt	15
+E522.txt	16
+E522.txt	17
+E522.txt	19
+E523.txt	0
+E523.txt	1
+E523.txt	2
+E523.txt	3
+E523.txt	4
+E523.txt	5
+E523.txt	6
+E523.txt	7
+E523.txt	10
+E523.txt	19
+E524.txt	0
+E524.txt	1
+E524.txt	4
+E524.txt	5
+E524.txt	6
+E524.txt	7
+E524.txt	8
+E524.txt	9
+E524.txt	10
+E524.txt	11
+E524.txt	12
+E524.txt	13
+E524.txt	14
+E524.txt	15
+E524.txt	16
+E524.txt	17
+E524.txt	18
+E524.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E528.txt	0
+E528.txt	1
+E528.txt	2
+E528.txt	3
+E528.txt	6
+E528.txt	8
+E528.txt	9
+E528.txt	10
+E528.txt	11
+E528.txt	13
+E528.txt	15
+E528.txt	16
+E528.txt	17
+E528.txt	18
+E528.txt	19
+
+
+
+
+
+
+
+
+
+
+E53.txt	0
+E53.txt	1
+E53.txt	2
+E53.txt	3
+E53.txt	4
+E53.txt	5
+E53.txt	6
+E53.txt	7
+E53.txt	8
+E53.txt	9
+E53.txt	10
+E53.txt	11
+E53.txt	12
+E53.txt	13
+E53.txt	14
+E53.txt	15
+E53.txt	16
+E53.txt	17
+E53.txt	18
+E53.txt	19
+
+
+
+
+
+E531.txt	0
+E531.txt	1
+E531.txt	2
+E531.txt	3
+E531.txt	4
+E531.txt	5
+E531.txt	6
+E531.txt	7
+E531.txt	9
+E531.txt	10
+E531.txt	11
+E531.txt	12
+E531.txt	14
+E531.txt	18
+E531.txt	19
+
+
+
+
+
+
+
+
+
+
+E533.txt	0
+E533.txt	1
+E533.txt	2
+E533.txt	3
+E533.txt	4
+E533.txt	5
+E533.txt	6
+E533.txt	7
+E533.txt	8
+E533.txt	9
+E533.txt	10
+E533.txt	11
+E533.txt	12
+E533.txt	14
+E533.txt	15
+E533.txt	16
+E533.txt	18
+E533.txt	19
+E534.txt	0
+E534.txt	7
+E534.txt	11
+E534.txt	12
+E534.txt	13
+E534.txt	15
+E534.txt	16
+E534.txt	17
+E534.txt	19
+E535.txt	0
+E535.txt	1
+E535.txt	2
+E535.txt	3
+E535.txt	4
+E535.txt	8
+E535.txt	10
+E535.txt	12
+E535.txt	14
+E535.txt	16
+E535.txt	18
+E535.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E539.txt	0
+E539.txt	1
+E539.txt	2
+E539.txt	3
+E539.txt	4
+E539.txt	5
+E539.txt	6
+E539.txt	7
+E539.txt	8
+E539.txt	9
+E539.txt	10
+E539.txt	11
+E539.txt	12
+E539.txt	13
+E539.txt	14
+E539.txt	15
+E539.txt	16
+E539.txt	18
+E539.txt	19
+E54.txt	0
+E54.txt	2
+E54.txt	3
+E54.txt	4
+E54.txt	5
+E54.txt	6
+E54.txt	7
+E54.txt	10
+E54.txt	11
+E54.txt	13
+E54.txt	14
+E54.txt	15
+E54.txt	16
+E54.txt	17
+E54.txt	18
+E54.txt	19
+
+
+
+
+
+
+
+
+
+
+E541.txt	0
+E541.txt	1
+E541.txt	2
+E541.txt	3
+E541.txt	4
+E541.txt	5
+E541.txt	6
+E541.txt	8
+E541.txt	9
+E541.txt	11
+E541.txt	13
+E541.txt	19
+E542.txt	0
+E542.txt	1
+E542.txt	2
+E542.txt	3
+E542.txt	5
+E542.txt	6
+E542.txt	7
+E542.txt	8
+E542.txt	9
+E542.txt	10
+E542.txt	11
+E542.txt	12
+E542.txt	13
+E542.txt	14
+E542.txt	15
+E542.txt	16
+E542.txt	18
+E542.txt	19
+E543.txt	0
+E543.txt	1
+E543.txt	2
+E543.txt	3
+E543.txt	4
+E543.txt	6
+E543.txt	18
+E543.txt	19
+E544.txt	0
+E544.txt	1
+E544.txt	2
+E544.txt	3
+E544.txt	4
+E544.txt	11
+E544.txt	17
+E544.txt	19
+E545.txt	0
+E545.txt	2
+E545.txt	3
+E545.txt	4
+E545.txt	5
+E545.txt	7
+E545.txt	8
+E545.txt	9
+E545.txt	13
+E545.txt	15
+E545.txt	16
+E545.txt	17
+E545.txt	18
+E545.txt	19
+E546.txt	0
+E546.txt	4
+E546.txt	11
+E546.txt	12
+E546.txt	13
+E546.txt	14
+E546.txt	15
+E546.txt	16
+E546.txt	17
+E546.txt	18
+E546.txt	19
+E547.txt	0
+E547.txt	12
+E547.txt	13
+E547.txt	14
+E547.txt	15
+E547.txt	16
+E547.txt	17
+E547.txt	18
+E547.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E555.txt	0
+E555.txt	1
+E555.txt	2
+E555.txt	3
+E555.txt	4
+E555.txt	5
+E555.txt	9
+E555.txt	11
+E555.txt	12
+E555.txt	13
+E555.txt	14
+E555.txt	15
+E555.txt	16
+E555.txt	17
+E555.txt	18
+E555.txt	19
+
+
+
+
+
+
+E557.txt	0
+E557.txt	1
+E557.txt	2
+E557.txt	4
+E557.txt	5
+E557.txt	6
+E557.txt	8
+E557.txt	9
+E557.txt	10
+E557.txt	11
+E557.txt	16
+E557.txt	17
+E557.txt	18
+E557.txt	19
+E558.txt	0
+E558.txt	7
+E558.txt	16
+E558.txt	17
+E558.txt	19
+E559.txt	0
+E559.txt	1
+E559.txt	2
+E559.txt	3
+E559.txt	4
+E559.txt	5
+E559.txt	6
+E559.txt	7
+E559.txt	8
+E559.txt	9
+E559.txt	10
+E559.txt	11
+E559.txt	12
+E559.txt	13
+E559.txt	14
+E559.txt	15
+E559.txt	16
+E559.txt	17
+E559.txt	18
+E559.txt	19
+
+
+
+
+
+E562.txt	0
+E562.txt	1
+E562.txt	2
+E562.txt	3
+E562.txt	4
+E562.txt	5
+E562.txt	6
+E562.txt	7
+E562.txt	8
+E562.txt	10
+E562.txt	11
+E562.txt	15
+E562.txt	18
+E562.txt	19
+E563.txt	0
+E563.txt	18
+E563.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E570.txt	0
+E570.txt	1
+E570.txt	6
+E570.txt	7
+E570.txt	8
+E570.txt	9
+E570.txt	10
+E570.txt	11
+E570.txt	12
+E570.txt	13
+E570.txt	14
+E570.txt	15
+E570.txt	19
+E571.txt	0
+E571.txt	1
+E571.txt	3
+E571.txt	4
+E571.txt	5
+E571.txt	6
+E571.txt	7
+E571.txt	8
+E571.txt	9
+E571.txt	10
+E571.txt	11
+E571.txt	12
+E571.txt	13
+E571.txt	14
+E571.txt	15
+E571.txt	16
+E571.txt	17
+E571.txt	18
+E571.txt	19
+E572.txt	0
+E572.txt	1
+E572.txt	2
+E572.txt	3
+E572.txt	4
+E572.txt	5
+E572.txt	6
+E572.txt	7
+E572.txt	9
+E572.txt	11
+E572.txt	12
+E572.txt	13
+E572.txt	14
+E572.txt	15
+E572.txt	16
+E572.txt	17
+E572.txt	18
+E572.txt	19
+E575.txt	0
+E575.txt	1
+E575.txt	2
+E575.txt	4
+E575.txt	5
+E575.txt	6
+E575.txt	9
+E575.txt	12
+E575.txt	14
+E575.txt	15
+E575.txt	16
+E575.txt	17
+E575.txt	18
+E575.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E578.txt	0
+E578.txt	6
+E578.txt	7
+E578.txt	8
+E578.txt	9
+E578.txt	10
+E578.txt	11
+E578.txt	12
+E578.txt	13
+E578.txt	14
+E578.txt	15
+E578.txt	16
+E578.txt	17
+E578.txt	18
+E578.txt	19
+
+
+
+
+
+
+
+E582.txt	0
+E582.txt	1
+E582.txt	2
+E582.txt	3
+E582.txt	4
+E582.txt	5
+E582.txt	6
+E582.txt	7
+E582.txt	8
+E582.txt	9
+E582.txt	10
+E582.txt	11
+E582.txt	12
+E582.txt	13
+E582.txt	14
+E582.txt	15
+E582.txt	16
+E582.txt	17
+E582.txt	18
+E582.txt	19
+
+
+
+
+
+
+
+E585.txt	0
+E585.txt	1
+E585.txt	2
+E585.txt	3
+E585.txt	8
+E585.txt	9
+E585.txt	10
+E585.txt	12
+E585.txt	19
+E586.txt	0
+E586.txt	1
+E586.txt	2
+E586.txt	4
+E586.txt	5
+E586.txt	6
+E586.txt	7
+E586.txt	8
+E586.txt	9
+E586.txt	10
+E586.txt	11
+E586.txt	12
+E586.txt	15
+E586.txt	16
+E586.txt	18
+E586.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E59.txt	0
+E59.txt	1
+E59.txt	2
+E59.txt	3
+E59.txt	4
+E59.txt	5
+E59.txt	6
+E59.txt	7
+E59.txt	8
+E59.txt	9
+E59.txt	10
+E59.txt	11
+E59.txt	12
+E59.txt	13
+E59.txt	14
+E59.txt	15
+E59.txt	17
+E59.txt	18
+E59.txt	19
+E590.txt	0
+E590.txt	1
+E590.txt	2
+E590.txt	3
+E590.txt	4
+E590.txt	5
+E590.txt	6
+E590.txt	9
+E590.txt	10
+E590.txt	12
+E590.txt	14
+E590.txt	15
+E590.txt	18
+E590.txt	19
+
+
+
+
+
+
+E592.txt	0
+E592.txt	1
+E592.txt	10
+E592.txt	11
+E592.txt	12
+E592.txt	13
+E592.txt	15
+E592.txt	16
+E592.txt	19
+E594.txt	0
+E594.txt	4
+E594.txt	5
+E594.txt	6
+E594.txt	7
+E594.txt	8
+E594.txt	9
+E594.txt	10
+E594.txt	11
+E594.txt	12
+E594.txt	13
+E594.txt	14
+E594.txt	16
+E594.txt	17
+E594.txt	18
+E594.txt	19
+E595.txt	0
+E595.txt	12
+E595.txt	17
+E595.txt	18
+E595.txt	19
+E596.txt	0
+E596.txt	1
+E596.txt	3
+E596.txt	4
+E596.txt	6
+E596.txt	12
+E596.txt	13
+E596.txt	14
+E596.txt	15
+E596.txt	16
+E596.txt	17
+E596.txt	18
+E596.txt	19
+E597.txt	0
+E597.txt	8
+E597.txt	18
+E597.txt	19
+E598.txt	0
+E598.txt	2
+E598.txt	3
+E598.txt	4
+E598.txt	8
+E598.txt	10
+E598.txt	11
+E598.txt	12
+E598.txt	13
+E598.txt	14
+E598.txt	15
+E598.txt	16
+E598.txt	18
+E598.txt	19
+
+
+
+
+
+E60.txt	0
+E60.txt	12
+E60.txt	13
+E60.txt	14
+E60.txt	15
+E60.txt	16
+E60.txt	17
+E60.txt	19
+E600.txt	0
+E600.txt	10
+E600.txt	12
+E600.txt	13
+E600.txt	14
+E600.txt	15
+E600.txt	16
+E600.txt	17
+E600.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E605.txt	0
+E605.txt	1
+E605.txt	4
+E605.txt	19
+E606.txt	0
+E606.txt	1
+E606.txt	2
+E606.txt	3
+E606.txt	4
+E606.txt	5
+E606.txt	6
+E606.txt	7
+E606.txt	8
+E606.txt	9
+E606.txt	10
+E606.txt	13
+E606.txt	16
+E606.txt	19
+E607.txt	0
+E607.txt	1
+E607.txt	2
+E607.txt	3
+E607.txt	4
+E607.txt	5
+E607.txt	6
+E607.txt	7
+E607.txt	8
+E607.txt	9
+E607.txt	10
+E607.txt	11
+E607.txt	13
+E607.txt	17
+E607.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E609.txt	0
+E609.txt	1
+E609.txt	2
+E609.txt	3
+E609.txt	4
+E609.txt	5
+E609.txt	6
+E609.txt	7
+E609.txt	8
+E609.txt	9
+E609.txt	10
+E609.txt	11
+E609.txt	12
+E609.txt	13
+E609.txt	14
+E609.txt	15
+E609.txt	16
+E609.txt	17
+E609.txt	18
+E609.txt	19
+E61.txt	0
+E61.txt	1
+E61.txt	2
+E61.txt	3
+E61.txt	4
+E61.txt	5
+E61.txt	6
+E61.txt	7
+E61.txt	8
+E61.txt	9
+E61.txt	10
+E61.txt	18
+E61.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E612.txt	0
+E612.txt	1
+E612.txt	2
+E612.txt	3
+E612.txt	4
+E612.txt	5
+E612.txt	6
+E612.txt	7
+E612.txt	8
+E612.txt	9
+E612.txt	10
+E612.txt	11
+E612.txt	12
+E612.txt	13
+E612.txt	14
+E612.txt	15
+E612.txt	17
+E612.txt	19
+E613.txt	0
+E613.txt	4
+E613.txt	5
+E613.txt	6
+E613.txt	7
+E613.txt	8
+E613.txt	9
+E613.txt	10
+E613.txt	11
+E613.txt	12
+E613.txt	13
+E613.txt	14
+E613.txt	15
+E613.txt	16
+E613.txt	17
+E613.txt	18
+E613.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E616.txt	0
+E616.txt	1
+E616.txt	2
+E616.txt	3
+E616.txt	4
+E616.txt	5
+E616.txt	6
+E616.txt	7
+E616.txt	8
+E616.txt	9
+E616.txt	10
+E616.txt	11
+E616.txt	12
+E616.txt	13
+E616.txt	14
+E616.txt	15
+E616.txt	16
+E616.txt	17
+E616.txt	18
+E616.txt	19
+E617.txt	0
+E617.txt	4
+E617.txt	5
+E617.txt	7
+E617.txt	8
+E617.txt	9
+E617.txt	12
+E617.txt	13
+E617.txt	14
+E617.txt	15
+E617.txt	16
+E617.txt	19
+E62.txt	0
+E62.txt	1
+E62.txt	2
+E62.txt	3
+E62.txt	4
+E62.txt	7
+E62.txt	10
+E62.txt	19
+
+
+
+
+
+
+E621.txt	0
+E621.txt	3
+E621.txt	9
+E621.txt	12
+E621.txt	13
+E621.txt	14
+E621.txt	15
+E621.txt	16
+E621.txt	17
+E621.txt	18
+E621.txt	19
+
+
+
+
+
+
+
+
+
+E623.txt	0
+E623.txt	1
+E623.txt	2
+E623.txt	3
+E623.txt	4
+E623.txt	5
+E623.txt	6
+E623.txt	7
+E623.txt	8
+E623.txt	9
+E623.txt	10
+E623.txt	11
+E623.txt	12
+E623.txt	13
+E623.txt	14
+E623.txt	15
+E623.txt	16
+E623.txt	17
+E623.txt	18
+E623.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E626.txt	0
+E626.txt	1
+E626.txt	2
+E626.txt	3
+E626.txt	4
+E626.txt	5
+E626.txt	6
+E626.txt	7
+E626.txt	8
+E626.txt	9
+E626.txt	10
+E626.txt	11
+E626.txt	12
+E626.txt	13
+E626.txt	14
+E626.txt	17
+E626.txt	18
+E626.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E634.txt	0
+E634.txt	3
+E634.txt	4
+E634.txt	5
+E634.txt	7
+E634.txt	16
+E634.txt	17
+E634.txt	18
+E634.txt	19
+
+
+
+
+
+E637.txt	0
+E637.txt	2
+E637.txt	3
+E637.txt	4
+E637.txt	5
+E637.txt	6
+E637.txt	7
+E637.txt	8
+E637.txt	9
+E637.txt	10
+E637.txt	11
+E637.txt	12
+E637.txt	13
+E637.txt	14
+E637.txt	15
+E637.txt	18
+E637.txt	19
+
+
+
+
+
+
+E639.txt	0
+E639.txt	5
+E639.txt	8
+E639.txt	11
+E639.txt	12
+E639.txt	14
+E639.txt	15
+E639.txt	16
+E639.txt	17
+E639.txt	18
+E639.txt	19
+E64.txt	0
+E64.txt	1
+E64.txt	2
+E64.txt	3
+E64.txt	5
+E64.txt	6
+E64.txt	12
+E64.txt	19
+E641.txt	0
+E641.txt	4
+E641.txt	7
+E641.txt	8
+E641.txt	9
+E641.txt	13
+E641.txt	14
+E641.txt	15
+E641.txt	17
+E641.txt	18
+E641.txt	19
+E642.txt	0
+E642.txt	7
+E642.txt	8
+E642.txt	10
+E642.txt	12
+E642.txt	13
+E642.txt	14
+E642.txt	16
+E642.txt	17
+E642.txt	18
+E642.txt	19
+
+
+
+
+
+
+
+
+
+E644.txt	0
+E644.txt	1
+E644.txt	2
+E644.txt	3
+E644.txt	4
+E644.txt	5
+E644.txt	6
+E644.txt	8
+E644.txt	9
+E644.txt	10
+E644.txt	13
+E644.txt	14
+E644.txt	17
+E644.txt	18
+E644.txt	19
+E645.txt	0
+E645.txt	1
+E645.txt	2
+E645.txt	3
+E645.txt	4
+E645.txt	5
+E645.txt	6
+E645.txt	8
+E645.txt	10
+E645.txt	15
+E645.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E650.txt	0
+E650.txt	3
+E650.txt	4
+E650.txt	5
+E650.txt	6
+E650.txt	7
+E650.txt	9
+E650.txt	10
+E650.txt	11
+E650.txt	13
+E650.txt	17
+E650.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E653.txt	0
+E653.txt	1
+E653.txt	2
+E653.txt	3
+E653.txt	4
+E653.txt	5
+E653.txt	6
+E653.txt	7
+E653.txt	8
+E653.txt	9
+E653.txt	10
+E653.txt	11
+E653.txt	12
+E653.txt	13
+E653.txt	14
+E653.txt	15
+E653.txt	16
+E653.txt	17
+E653.txt	18
+E653.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E657.txt	0
+E657.txt	1
+E657.txt	19
+E658.txt	0
+E658.txt	1
+E658.txt	2
+E658.txt	3
+E658.txt	4
+E658.txt	5
+E658.txt	7
+E658.txt	8
+E658.txt	9
+E658.txt	10
+E658.txt	11
+E658.txt	12
+E658.txt	15
+E658.txt	16
+E658.txt	19
+E659.txt	0
+E659.txt	6
+E659.txt	7
+E659.txt	11
+E659.txt	12
+E659.txt	13
+E659.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E660.txt	0
+E660.txt	1
+E660.txt	2
+E660.txt	3
+E660.txt	4
+E660.txt	6
+E660.txt	8
+E660.txt	9
+E660.txt	10
+E660.txt	11
+E660.txt	14
+E660.txt	19
+
+
+
+
+
+
+E663.txt	0
+E663.txt	1
+E663.txt	4
+E663.txt	16
+E663.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E665.txt	0
+E665.txt	3
+E665.txt	4
+E665.txt	5
+E665.txt	6
+E665.txt	7
+E665.txt	8
+E665.txt	9
+E665.txt	10
+E665.txt	11
+E665.txt	12
+E665.txt	13
+E665.txt	14
+E665.txt	15
+E665.txt	16
+E665.txt	17
+E665.txt	18
+E665.txt	19
+E666.txt	0
+E666.txt	1
+E666.txt	2
+E666.txt	3
+E666.txt	4
+E666.txt	5
+E666.txt	6
+E666.txt	7
+E666.txt	8
+E666.txt	9
+E666.txt	11
+E666.txt	12
+E666.txt	14
+E666.txt	15
+E666.txt	19
+E667.txt	0
+E667.txt	1
+E667.txt	4
+E667.txt	5
+E667.txt	6
+E667.txt	7
+E667.txt	19
+E669.txt	0
+E669.txt	1
+E669.txt	2
+E669.txt	3
+E669.txt	8
+E669.txt	9
+E669.txt	10
+E669.txt	11
+E669.txt	12
+E669.txt	13
+E669.txt	14
+E669.txt	15
+E669.txt	16
+E669.txt	17
+E669.txt	18
+E669.txt	19
+E670.txt	0
+E670.txt	1
+E670.txt	2
+E670.txt	3
+E670.txt	4
+E670.txt	7
+E670.txt	15
+E670.txt	19
+E671.txt	0
+E671.txt	1
+E671.txt	2
+E671.txt	3
+E671.txt	4
+E671.txt	5
+E671.txt	6
+E671.txt	7
+E671.txt	8
+E671.txt	9
+E671.txt	10
+E671.txt	11
+E671.txt	13
+E671.txt	14
+E671.txt	15
+E671.txt	18
+E671.txt	19
+E672.txt	0
+E672.txt	10
+E672.txt	11
+E672.txt	12
+E672.txt	13
+E672.txt	14
+E672.txt	16
+E672.txt	18
+E672.txt	19
+E673.txt	0
+E673.txt	1
+E673.txt	2
+E673.txt	3
+E673.txt	4
+E673.txt	5
+E673.txt	9
+E673.txt	14
+E673.txt	15
+E673.txt	16
+E673.txt	17
+E673.txt	19
+E674.txt	0
+E674.txt	1
+E674.txt	2
+E674.txt	3
+E674.txt	4
+E674.txt	5
+E674.txt	6
+E674.txt	7
+E674.txt	8
+E674.txt	9
+E674.txt	10
+E674.txt	11
+E674.txt	12
+E674.txt	13
+E674.txt	14
+E674.txt	15
+E674.txt	17
+E674.txt	18
+E674.txt	19
+E675.txt	0
+E675.txt	1
+E675.txt	2
+E675.txt	3
+E675.txt	5
+E675.txt	6
+E675.txt	7
+E675.txt	8
+E675.txt	9
+E675.txt	10
+E675.txt	11
+E675.txt	12
+E675.txt	13
+E675.txt	14
+E675.txt	16
+E675.txt	17
+E675.txt	18
+E675.txt	19
+E676.txt	0
+E676.txt	1
+E676.txt	2
+E676.txt	6
+E676.txt	7
+E676.txt	8
+E676.txt	9
+E676.txt	10
+E676.txt	11
+E676.txt	12
+E676.txt	13
+E676.txt	14
+E676.txt	15
+E676.txt	16
+E676.txt	17
+E676.txt	18
+E676.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E680.txt	0
+E680.txt	5
+E680.txt	6
+E680.txt	7
+E680.txt	8
+E680.txt	9
+E680.txt	10
+E680.txt	19
+E681.txt	0
+E681.txt	1
+E681.txt	2
+E681.txt	3
+E681.txt	4
+E681.txt	5
+E681.txt	6
+E681.txt	15
+E681.txt	19
+E682.txt	0
+E682.txt	1
+E682.txt	2
+E682.txt	3
+E682.txt	4
+E682.txt	5
+E682.txt	6
+E682.txt	7
+E682.txt	8
+E682.txt	9
+E682.txt	10
+E682.txt	11
+E682.txt	12
+E682.txt	13
+E682.txt	14
+E682.txt	15
+E682.txt	16
+E682.txt	17
+E682.txt	18
+E682.txt	19
+E683.txt	0
+E683.txt	2
+E683.txt	6
+E683.txt	7
+E683.txt	8
+E683.txt	9
+E683.txt	10
+E683.txt	11
+E683.txt	14
+E683.txt	15
+E683.txt	16
+E683.txt	18
+E683.txt	19
+E684.txt	0
+E684.txt	1
+E684.txt	2
+E684.txt	3
+E684.txt	4
+E684.txt	5
+E684.txt	6
+E684.txt	7
+E684.txt	8
+E684.txt	9
+E684.txt	10
+E684.txt	11
+E684.txt	12
+E684.txt	13
+E684.txt	14
+E684.txt	15
+E684.txt	16
+E684.txt	17
+E684.txt	18
+E684.txt	19
+E685.txt	0
+E685.txt	1
+E685.txt	2
+E685.txt	3
+E685.txt	4
+E685.txt	5
+E685.txt	6
+E685.txt	7
+E685.txt	8
+E685.txt	11
+E685.txt	12
+E685.txt	13
+E685.txt	15
+E685.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E689.txt	0
+E689.txt	1
+E689.txt	2
+E689.txt	4
+E689.txt	5
+E689.txt	9
+E689.txt	11
+E689.txt	12
+E689.txt	13
+E689.txt	14
+E689.txt	15
+E689.txt	16
+E689.txt	17
+E689.txt	18
+E689.txt	19
+E69.txt	0
+E69.txt	1
+E69.txt	2
+E69.txt	3
+E69.txt	4
+E69.txt	5
+E69.txt	6
+E69.txt	7
+E69.txt	8
+E69.txt	9
+E69.txt	10
+E69.txt	11
+E69.txt	12
+E69.txt	13
+E69.txt	19
+E690.txt	0
+E690.txt	1
+E690.txt	2
+E690.txt	3
+E690.txt	4
+E690.txt	5
+E690.txt	6
+E690.txt	9
+E690.txt	12
+E690.txt	16
+E690.txt	17
+E690.txt	19
+
+
+
+
+
+
+
+E692.txt	0
+E692.txt	1
+E692.txt	2
+E692.txt	3
+E692.txt	4
+E692.txt	5
+E692.txt	6
+E692.txt	7
+E692.txt	8
+E692.txt	9
+E692.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E695.txt	0
+E695.txt	1
+E695.txt	2
+E695.txt	3
+E695.txt	4
+E695.txt	5
+E695.txt	6
+E695.txt	7
+E695.txt	8
+E695.txt	9
+E695.txt	10
+E695.txt	11
+E695.txt	12
+E695.txt	13
+E695.txt	15
+E695.txt	17
+E695.txt	18
+E695.txt	19
+E699.txt	0
+E699.txt	1
+E699.txt	2
+E699.txt	4
+E699.txt	7
+E699.txt	8
+E699.txt	13
+E699.txt	14
+E699.txt	15
+E699.txt	16
+E699.txt	17
+E699.txt	18
+E699.txt	19
+
+
+E700.txt	0
+E700.txt	13
+E700.txt	14
+E700.txt	15
+E700.txt	16
+E700.txt	18
+E700.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E704.txt	0
+E704.txt	1
+E704.txt	2
+E704.txt	3
+E704.txt	4
+E704.txt	5
+E704.txt	6
+E704.txt	8
+E704.txt	9
+E704.txt	10
+E704.txt	11
+E704.txt	15
+E704.txt	17
+E704.txt	19
+E705.txt	0
+E705.txt	1
+E705.txt	2
+E705.txt	3
+E705.txt	4
+E705.txt	6
+E705.txt	7
+E705.txt	8
+E705.txt	14
+E705.txt	19
+E706.txt	0
+E706.txt	1
+E706.txt	2
+E706.txt	3
+E706.txt	4
+E706.txt	5
+E706.txt	6
+E706.txt	7
+E706.txt	8
+E706.txt	9
+E706.txt	10
+E706.txt	11
+E706.txt	12
+E706.txt	17
+E706.txt	19
+
+
+
+
+E709.txt	0
+E709.txt	1
+E709.txt	2
+E709.txt	3
+E709.txt	4
+E709.txt	5
+E709.txt	6
+E709.txt	7
+E709.txt	8
+E709.txt	9
+E709.txt	10
+E709.txt	11
+E709.txt	12
+E709.txt	14
+E709.txt	15
+E709.txt	16
+E709.txt	17
+E709.txt	18
+E709.txt	19
+E71.txt	0
+E71.txt	1
+E71.txt	2
+E71.txt	3
+E71.txt	4
+E71.txt	5
+E71.txt	6
+E71.txt	7
+E71.txt	8
+E71.txt	9
+E71.txt	10
+E71.txt	11
+E71.txt	12
+E71.txt	13
+E71.txt	14
+E71.txt	15
+E71.txt	16
+E71.txt	17
+E71.txt	18
+E71.txt	19
+E710.txt	0
+E710.txt	1
+E710.txt	2
+E710.txt	3
+E710.txt	4
+E710.txt	5
+E710.txt	6
+E710.txt	7
+E710.txt	10
+E710.txt	11
+E710.txt	12
+E710.txt	13
+E710.txt	14
+E710.txt	15
+E710.txt	16
+E710.txt	18
+E710.txt	19
+E711.txt	0
+E711.txt	3
+E711.txt	9
+E711.txt	10
+E711.txt	11
+E711.txt	12
+E711.txt	13
+E711.txt	14
+E711.txt	15
+E711.txt	16
+E711.txt	17
+E711.txt	18
+E711.txt	19
+E712.txt	0
+E712.txt	3
+E712.txt	4
+E712.txt	5
+E712.txt	6
+E712.txt	7
+E712.txt	8
+E712.txt	9
+E712.txt	10
+E712.txt	11
+E712.txt	12
+E712.txt	13
+E712.txt	14
+E712.txt	16
+E712.txt	17
+E712.txt	19
+E713.txt	0
+E713.txt	1
+E713.txt	2
+E713.txt	3
+E713.txt	4
+E713.txt	5
+E713.txt	6
+E713.txt	7
+E713.txt	9
+E713.txt	10
+E713.txt	11
+E713.txt	13
+E713.txt	17
+E713.txt	18
+E713.txt	19
+E714.txt	0
+E714.txt	3
+E714.txt	8
+E714.txt	9
+E714.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E72.txt	0
+E72.txt	1
+E72.txt	2
+E72.txt	3
+E72.txt	4
+E72.txt	5
+E72.txt	6
+E72.txt	7
+E72.txt	8
+E72.txt	11
+E72.txt	13
+E72.txt	15
+E72.txt	16
+E72.txt	17
+E72.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E723.txt	0
+E723.txt	12
+E723.txt	13
+E723.txt	14
+E723.txt	15
+E723.txt	16
+E723.txt	17
+E723.txt	18
+E723.txt	19
+
+
+
+E725.txt	0
+E725.txt	1
+E725.txt	2
+E725.txt	3
+E725.txt	4
+E725.txt	5
+E725.txt	6
+E725.txt	7
+E725.txt	8
+E725.txt	9
+E725.txt	10
+E725.txt	11
+E725.txt	12
+E725.txt	13
+E725.txt	15
+E725.txt	16
+E725.txt	17
+E725.txt	18
+E725.txt	19
+E726.txt	0
+E726.txt	1
+E726.txt	2
+E726.txt	3
+E726.txt	4
+E726.txt	5
+E726.txt	6
+E726.txt	7
+E726.txt	19
+E728.txt	0
+E728.txt	4
+E728.txt	10
+E728.txt	11
+E728.txt	12
+E728.txt	13
+E728.txt	14
+E728.txt	17
+E728.txt	19
+E729.txt	0
+E729.txt	1
+E729.txt	2
+E729.txt	4
+E729.txt	5
+E729.txt	6
+E729.txt	7
+E729.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E735.txt	0
+E735.txt	1
+E735.txt	2
+E735.txt	3
+E735.txt	4
+E735.txt	5
+E735.txt	6
+E735.txt	7
+E735.txt	9
+E735.txt	11
+E735.txt	12
+E735.txt	14
+E735.txt	15
+E735.txt	17
+E735.txt	18
+E735.txt	19
+E736.txt	0
+E736.txt	1
+E736.txt	2
+E736.txt	3
+E736.txt	4
+E736.txt	5
+E736.txt	6
+E736.txt	7
+E736.txt	8
+E736.txt	9
+E736.txt	10
+E736.txt	11
+E736.txt	12
+E736.txt	15
+E736.txt	17
+E736.txt	19
+E738.txt	0
+E738.txt	2
+E738.txt	9
+E738.txt	13
+E738.txt	14
+E738.txt	15
+E738.txt	16
+E738.txt	17
+E738.txt	18
+E738.txt	19
+
+
+
+
+
+
+
+
+
+E740.txt	0
+E740.txt	1
+E740.txt	2
+E740.txt	3
+E740.txt	4
+E740.txt	6
+E740.txt	7
+E740.txt	9
+E740.txt	11
+E740.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E745.txt	0
+E745.txt	1
+E745.txt	2
+E745.txt	3
+E745.txt	4
+E745.txt	6
+E745.txt	9
+E745.txt	11
+E745.txt	19
+
+
+
+
+
+E747.txt	0
+E747.txt	1
+E747.txt	2
+E747.txt	3
+E747.txt	4
+E747.txt	5
+E747.txt	6
+E747.txt	7
+E747.txt	10
+E747.txt	11
+E747.txt	12
+E747.txt	13
+E747.txt	14
+E747.txt	15
+E747.txt	16
+E747.txt	17
+E747.txt	18
+E747.txt	19
+E748.txt	0
+E748.txt	1
+E748.txt	2
+E748.txt	3
+E748.txt	4
+E748.txt	5
+E748.txt	6
+E748.txt	7
+E748.txt	8
+E748.txt	12
+E748.txt	14
+E748.txt	19
+
+
+
+
+E750.txt	0
+E750.txt	1
+E750.txt	2
+E750.txt	3
+E750.txt	4
+E750.txt	5
+E750.txt	6
+E750.txt	7
+E750.txt	8
+E750.txt	9
+E750.txt	10
+E750.txt	11
+E750.txt	12
+E750.txt	13
+E750.txt	14
+E750.txt	15
+E750.txt	16
+E750.txt	17
+E750.txt	18
+E750.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E752.txt	0
+E752.txt	1
+E752.txt	2
+E752.txt	3
+E752.txt	5
+E752.txt	7
+E752.txt	8
+E752.txt	9
+E752.txt	10
+E752.txt	11
+E752.txt	12
+E752.txt	16
+E752.txt	19
+
+
+
+E757.txt	0
+E757.txt	1
+E757.txt	2
+E757.txt	7
+E757.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E76.txt	0
+E76.txt	1
+E76.txt	2
+E76.txt	3
+E76.txt	4
+E76.txt	6
+E76.txt	7
+E76.txt	8
+E76.txt	9
+E76.txt	10
+E76.txt	11
+E76.txt	12
+E76.txt	14
+E76.txt	15
+E76.txt	16
+E76.txt	17
+E76.txt	19
+
+
+
+
+
+
+
+
+E761.txt	0
+E761.txt	1
+E761.txt	2
+E761.txt	3
+E761.txt	4
+E761.txt	5
+E761.txt	6
+E761.txt	7
+E761.txt	8
+E761.txt	9
+E761.txt	10
+E761.txt	11
+E761.txt	12
+E761.txt	13
+E761.txt	14
+E761.txt	15
+E761.txt	16
+E761.txt	17
+E761.txt	18
+E761.txt	19
+E763.txt	0
+E763.txt	1
+E763.txt	2
+E763.txt	3
+E763.txt	4
+E763.txt	5
+E763.txt	6
+E763.txt	7
+E763.txt	8
+E763.txt	9
+E763.txt	10
+E763.txt	11
+E763.txt	13
+E763.txt	15
+E763.txt	17
+E763.txt	19
+E765.txt	0
+E765.txt	1
+E765.txt	2
+E765.txt	3
+E765.txt	4
+E765.txt	5
+E765.txt	6
+E765.txt	8
+E765.txt	15
+E765.txt	17
+E765.txt	19
+E766.txt	0
+E766.txt	1
+E766.txt	3
+E766.txt	4
+E766.txt	10
+E766.txt	11
+E766.txt	12
+E766.txt	13
+E766.txt	14
+E766.txt	19
+E768.txt	0
+E768.txt	1
+E768.txt	2
+E768.txt	3
+E768.txt	4
+E768.txt	5
+E768.txt	6
+E768.txt	7
+E768.txt	8
+E768.txt	9
+E768.txt	10
+E768.txt	11
+E768.txt	12
+E768.txt	13
+E768.txt	14
+E768.txt	15
+E768.txt	16
+E768.txt	17
+E768.txt	18
+E768.txt	19
+E769.txt	0
+E769.txt	1
+E769.txt	2
+E769.txt	3
+E769.txt	4
+E769.txt	6
+E769.txt	7
+E769.txt	8
+E769.txt	9
+E769.txt	10
+E769.txt	12
+E769.txt	17
+E769.txt	19
+
+
+
+
+
+
+
+E774.txt	0
+E774.txt	1
+E774.txt	2
+E774.txt	3
+E774.txt	4
+E774.txt	9
+E774.txt	10
+E774.txt	11
+E774.txt	12
+E774.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E776.txt	0
+E776.txt	1
+E776.txt	2
+E776.txt	3
+E776.txt	4
+E776.txt	5
+E776.txt	6
+E776.txt	7
+E776.txt	14
+E776.txt	17
+E776.txt	19
+
+
+
+
+
+
+E779.txt	0
+E779.txt	1
+E779.txt	2
+E779.txt	3
+E779.txt	4
+E779.txt	5
+E779.txt	6
+E779.txt	7
+E779.txt	8
+E779.txt	10
+E779.txt	11
+E779.txt	14
+E779.txt	18
+E779.txt	19
+E78.txt	0
+E78.txt	1
+E78.txt	2
+E78.txt	3
+E78.txt	4
+E78.txt	5
+E78.txt	6
+E78.txt	7
+E78.txt	8
+E78.txt	9
+E78.txt	10
+E78.txt	12
+E78.txt	14
+E78.txt	15
+E78.txt	16
+E78.txt	19
+E780.txt	0
+E780.txt	1
+E780.txt	2
+E780.txt	3
+E780.txt	4
+E780.txt	5
+E780.txt	6
+E780.txt	7
+E780.txt	11
+E780.txt	12
+E780.txt	19
+E781.txt	0
+E781.txt	1
+E781.txt	2
+E781.txt	3
+E781.txt	4
+E781.txt	5
+E781.txt	6
+E781.txt	7
+E781.txt	8
+E781.txt	9
+E781.txt	10
+E781.txt	11
+E781.txt	12
+E781.txt	15
+E781.txt	19
+
+
+
+
+
+
+
+
+
+
+E785.txt	0
+E785.txt	1
+E785.txt	3
+E785.txt	6
+E785.txt	8
+E785.txt	9
+E785.txt	10
+E785.txt	12
+E785.txt	13
+E785.txt	14
+E785.txt	15
+E785.txt	16
+E785.txt	18
+E785.txt	19
+E786.txt	0
+E786.txt	1
+E786.txt	2
+E786.txt	3
+E786.txt	4
+E786.txt	5
+E786.txt	6
+E786.txt	7
+E786.txt	8
+E786.txt	9
+E786.txt	10
+E786.txt	11
+E786.txt	12
+E786.txt	13
+E786.txt	14
+E786.txt	15
+E786.txt	16
+E786.txt	17
+E786.txt	18
+E786.txt	19
+E787.txt	0
+E787.txt	1
+E787.txt	4
+E787.txt	5
+E787.txt	7
+E787.txt	8
+E787.txt	9
+E787.txt	10
+E787.txt	11
+E787.txt	12
+E787.txt	15
+E787.txt	16
+E787.txt	17
+E787.txt	18
+E787.txt	19
+E788.txt	0
+E788.txt	1
+E788.txt	2
+E788.txt	3
+E788.txt	9
+E788.txt	12
+E788.txt	13
+E788.txt	17
+E788.txt	18
+E788.txt	19
+E789.txt	0
+E789.txt	1
+E789.txt	2
+E789.txt	3
+E789.txt	4
+E789.txt	5
+E789.txt	6
+E789.txt	7
+E789.txt	10
+E789.txt	12
+E789.txt	13
+E789.txt	15
+E789.txt	17
+E789.txt	18
+E789.txt	19
+E791.txt	0
+E791.txt	1
+E791.txt	2
+E791.txt	3
+E791.txt	5
+E791.txt	6
+E791.txt	7
+E791.txt	19
+E792.txt	0
+E792.txt	1
+E792.txt	2
+E792.txt	3
+E792.txt	4
+E792.txt	5
+E792.txt	6
+E792.txt	7
+E792.txt	8
+E792.txt	9
+E792.txt	10
+E792.txt	11
+E792.txt	17
+E792.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E81.txt	0
+E81.txt	1
+E81.txt	2
+E81.txt	3
+E81.txt	4
+E81.txt	5
+E81.txt	6
+E81.txt	10
+E81.txt	12
+E81.txt	14
+E81.txt	18
+E81.txt	19
+E83.txt	0
+E83.txt	1
+E83.txt	2
+E83.txt	7
+E83.txt	8
+E83.txt	11
+E83.txt	12
+E83.txt	15
+E83.txt	16
+E83.txt	17
+E83.txt	18
+E83.txt	19
+E84.txt	0
+E84.txt	1
+E84.txt	2
+E84.txt	3
+E84.txt	4
+E84.txt	5
+E84.txt	15
+E84.txt	19
+
+
+
+
+
+
+
+
+
+
+E86.txt	0
+E86.txt	1
+E86.txt	2
+E86.txt	3
+E86.txt	4
+E86.txt	5
+E86.txt	6
+E86.txt	8
+E86.txt	10
+E86.txt	11
+E86.txt	12
+E86.txt	15
+E86.txt	18
+E86.txt	19
+E87.txt	0
+E87.txt	2
+E87.txt	3
+E87.txt	4
+E87.txt	5
+E87.txt	6
+E87.txt	7
+E87.txt	8
+E87.txt	9
+E87.txt	10
+E87.txt	11
+E87.txt	12
+E87.txt	13
+E87.txt	14
+E87.txt	15
+E87.txt	16
+E87.txt	17
+E87.txt	18
+E87.txt	19
+E88.txt	0
+E88.txt	1
+E88.txt	2
+E88.txt	3
+E88.txt	4
+E88.txt	11
+E88.txt	12
+E88.txt	13
+E88.txt	14
+E88.txt	15
+E88.txt	16
+E88.txt	19
+
+
+
+E91.txt	0
+E91.txt	1
+E91.txt	2
+E91.txt	6
+E91.txt	7
+E91.txt	8
+E91.txt	9
+E91.txt	11
+E91.txt	13
+E91.txt	14
+E91.txt	15
+E91.txt	16
+E91.txt	17
+E91.txt	18
+E91.txt	19
+E92.txt	0
+E92.txt	1
+E92.txt	2
+E92.txt	3
+E92.txt	4
+E92.txt	5
+E92.txt	6
+E92.txt	7
+E92.txt	8
+E92.txt	9
+E92.txt	10
+E92.txt	11
+E92.txt	12
+E92.txt	13
+E92.txt	14
+E92.txt	15
+E92.txt	17
+E92.txt	19
+E93.txt	0
+E93.txt	6
+E93.txt	9
+E93.txt	10
+E93.txt	11
+E93.txt	12
+E93.txt	13
+E93.txt	14
+E93.txt	15
+E93.txt	16
+E93.txt	17
+E93.txt	18
+E93.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E98.txt	0
+E98.txt	1
+E98.txt	2
+E98.txt	7
+E98.txt	8
+E98.txt	10
+E98.txt	12
+E98.txt	16
+E98.txt	19
+E99.txt	0
+E99.txt	1
+E99.txt	2
+E99.txt	3
+E99.txt	4
+E99.txt	5
+E99.txt	6
+E99.txt	7
+E99.txt	8
+E99.txt	9
+E99.txt	10
+E99.txt	11
+E99.txt	12
+E99.txt	13
+E99.txt	14
+E99.txt	15
+E99.txt	16
+E99.txt	17
+E99.txt	18
+E99.txt	19
+eee1101ha.txt	0
+eee1101ha.txt	1
+eee1101ha.txt	3
+eee1101ha.txt	4
+eee1101ha.txt	5
+eee1101ha.txt	6
+eee1101ha.txt	7
+eee1101ha.txt	10
+eee1101ha.txt	11
+eee1101ha.txt	12
+eee1101ha.txt	13
+eee1101ha.txt	15
+eee1101ha.txt	16
+eee1101ha.txt	17
+eee1101ha.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+heathLedger.txt	0
+heathLedger.txt	1
+heathLedger.txt	5
+heathLedger.txt	6
+heathLedger.txt	11
+heathLedger.txt	12
+heathLedger.txt	13
+heathLedger.txt	15
+heathLedger.txt	16
+heathLedger.txt	17
+heathLedger.txt	18
+heathLedger.txt	19
+
+
+
+
+
+JayceeDugard.txt	0
+JayceeDugard.txt	1
+JayceeDugard.txt	2
+JayceeDugard.txt	3
+JayceeDugard.txt	4
+JayceeDugard.txt	5
+JayceeDugard.txt	6
+JayceeDugard.txt	7
+JayceeDugard.txt	8
+JayceeDugard.txt	9
+JayceeDugard.txt	10
+JayceeDugard.txt	11
+JayceeDugard.txt	12
+JayceeDugard.txt	13
+JayceeDugard.txt	14
+JayceeDugard.txt	17
+JayceeDugard.txt	18
+JayceeDugard.txt	19
+
+
+
+
+Jhonbrain.txt	0
+Jhonbrain.txt	1
+Jhonbrain.txt	2
+Jhonbrain.txt	3
+Jhonbrain.txt	8
+Jhonbrain.txt	9
+Jhonbrain.txt	10
+Jhonbrain.txt	11
+Jhonbrain.txt	14
+Jhonbrain.txt	19
+josefFritzl.txt	0
+josefFritzl.txt	6
+josefFritzl.txt	8
+josefFritzl.txt	12
+josefFritzl.txt	13
+josefFritzl.txt	14
+josefFritzl.txt	15
+josefFritzl.txt	16
+josefFritzl.txt	17
+josefFritzl.txt	18
+josefFritzl.txt	19
+NintendoDS.txt	0
+NintendoDS.txt	1
+NintendoDS.txt	2
+NintendoDS.txt	3
+NintendoDS.txt	4
+NintendoDS.txt	5
+NintendoDS.txt	6
+NintendoDS.txt	7
+NintendoDS.txt	8
+NintendoDS.txt	9
+NintendoDS.txt	10
+NintendoDS.txt	11
+NintendoDS.txt	12
+NintendoDS.txt	13
+NintendoDS.txt	14
+NintendoDS.txt	15
+NintendoDS.txt	16
+NintendoDS.txt	17
+NintendoDS.txt	18
+NintendoDS.txt	19
+
+
+
+palmPre.txt	0
+palmPre.txt	4
+palmPre.txt	5
+palmPre.txt	6
+palmPre.txt	7
+palmPre.txt	8
+palmPre.txt	9
+palmPre.txt	10
+palmPre.txt	11
+palmPre.txt	12
+palmPre.txt	13
+palmPre.txt	14
+palmPre.txt	15
+palmPre.txt	16
+palmPre.txt	17
+palmPre.txt	18
+palmPre.txt	19
+Peanutrecall.txt	0
+Peanutrecall.txt	1
+Peanutrecall.txt	2
+Peanutrecall.txt	3
+Peanutrecall.txt	4
+Peanutrecall.txt	5
+Peanutrecall.txt	6
+Peanutrecall.txt	7
+Peanutrecall.txt	8
+Peanutrecall.txt	9
+Peanutrecall.txt	11
+Peanutrecall.txt	12
+Peanutrecall.txt	16
+Peanutrecall.txt	17
+Peanutrecall.txt	18
+Peanutrecall.txt	19
+pregnantMan.txt	0
+pregnantMan.txt	1
+pregnantMan.txt	2
+pregnantMan.txt	3
+pregnantMan.txt	4
+pregnantMan.txt	5
+pregnantMan.txt	8
+pregnantMan.txt	9
+pregnantMan.txt	10
+pregnantMan.txt	11
+pregnantMan.txt	12
+pregnantMan.txt	13
+pregnantMan.txt	14
+pregnantMan.txt	15
+pregnantMan.txt	16
+pregnantMan.txt	17
+pregnantMan.txt	18
+pregnantMan.txt	19
+SarahJessicaSurrogate.txt	0
+SarahJessicaSurrogate.txt	1
+SarahJessicaSurrogate.txt	2
+SarahJessicaSurrogate.txt	3
+SarahJessicaSurrogate.txt	4
+SarahJessicaSurrogate.txt	5
+SarahJessicaSurrogate.txt	6
+SarahJessicaSurrogate.txt	7
+SarahJessicaSurrogate.txt	8
+SarahJessicaSurrogate.txt	10
+SarahJessicaSurrogate.txt	11
+SarahJessicaSurrogate.txt	12
+SarahJessicaSurrogate.txt	13
+SarahJessicaSurrogate.txt	14
+SarahJessicaSurrogate.txt	15
+SarahJessicaSurrogate.txt	16
+SarahJessicaSurrogate.txt	17
+SarahJessicaSurrogate.txt	18
+SarahJessicaSurrogate.txt	19
+SquareWatermelon.txt	0
+SquareWatermelon.txt	1
+SquareWatermelon.txt	4
+SquareWatermelon.txt	5
+SquareWatermelon.txt	6
+SquareWatermelon.txt	7
+SquareWatermelon.txt	8
+SquareWatermelon.txt	9
+SquareWatermelon.txt	10
+SquareWatermelon.txt	11
+SquareWatermelon.txt	12
+SquareWatermelon.txt	13
+SquareWatermelon.txt	14
+SquareWatermelon.txt	15
+SquareWatermelon.txt	16
+SquareWatermelon.txt	17
+SquareWatermelon.txt	18
+SquareWatermelon.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1043.txt	0
+TM1043.txt	1
+TM1043.txt	2
+TM1043.txt	3
+TM1043.txt	8
+TM1043.txt	9
+TM1043.txt	12
+TM1043.txt	13
+TM1043.txt	16
+TM1043.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1079.txt	0
+TM1079.txt	1
+TM1079.txt	2
+TM1079.txt	7
+TM1079.txt	8
+TM1079.txt	9
+TM1079.txt	10
+TM1079.txt	11
+TM1079.txt	12
+TM1079.txt	13
+TM1079.txt	14
+TM1079.txt	15
+TM1079.txt	17
+TM1079.txt	19
+
+
+
+
+
+
+
+TM1085.txt	0
+TM1085.txt	1
+TM1085.txt	2
+TM1085.txt	3
+TM1085.txt	4
+TM1085.txt	5
+TM1085.txt	6
+TM1085.txt	7
+TM1085.txt	8
+TM1085.txt	9
+TM1085.txt	11
+TM1085.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1103.txt	0
+TM1103.txt	1
+TM1103.txt	2
+TM1103.txt	3
+TM1103.txt	4
+TM1103.txt	5
+TM1103.txt	6
+TM1103.txt	7
+TM1103.txt	8
+TM1103.txt	9
+TM1103.txt	10
+TM1103.txt	11
+TM1103.txt	12
+TM1103.txt	13
+TM1103.txt	14
+TM1103.txt	15
+TM1103.txt	16
+TM1103.txt	17
+TM1103.txt	18
+TM1103.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1157.txt	0
+TM1157.txt	14
+TM1157.txt	15
+TM1157.txt	16
+TM1157.txt	17
+TM1157.txt	18
+TM1157.txt	19
+
+
+
+
+
+
+
+TM1160.txt	0
+TM1160.txt	1
+TM1160.txt	2
+TM1160.txt	3
+TM1160.txt	4
+TM1160.txt	5
+TM1160.txt	6
+TM1160.txt	7
+TM1160.txt	8
+TM1160.txt	9
+TM1160.txt	10
+TM1160.txt	12
+TM1160.txt	13
+TM1160.txt	14
+TM1160.txt	17
+TM1160.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1326.txt	0
+TM1326.txt	1
+TM1326.txt	2
+TM1326.txt	3
+TM1326.txt	4
+TM1326.txt	5
+TM1326.txt	6
+TM1326.txt	7
+TM1326.txt	8
+TM1326.txt	11
+TM1326.txt	12
+TM1326.txt	13
+TM1326.txt	15
+TM1326.txt	16
+TM1326.txt	17
+TM1326.txt	18
+TM1326.txt	19
+TM1344.txt	0
+TM1344.txt	1
+TM1344.txt	2
+TM1344.txt	3
+TM1344.txt	4
+TM1344.txt	5
+TM1344.txt	6
+TM1344.txt	7
+TM1344.txt	8
+TM1344.txt	9
+TM1344.txt	10
+TM1344.txt	11
+TM1344.txt	12
+TM1344.txt	14
+TM1344.txt	16
+TM1344.txt	17
+TM1344.txt	18
+TM1344.txt	19
+TM1348.txt	0
+TM1348.txt	1
+TM1348.txt	11
+TM1348.txt	12
+TM1348.txt	13
+TM1348.txt	14
+TM1348.txt	15
+TM1348.txt	16
+TM1348.txt	17
+TM1348.txt	18
+TM1348.txt	19
+TM1372.txt	0
+TM1372.txt	1
+TM1372.txt	2
+TM1372.txt	3
+TM1372.txt	4
+TM1372.txt	5
+TM1372.txt	6
+TM1372.txt	7
+TM1372.txt	8
+TM1372.txt	9
+TM1372.txt	10
+TM1372.txt	11
+TM1372.txt	12
+TM1372.txt	14
+TM1372.txt	15
+TM1372.txt	16
+TM1372.txt	17
+TM1372.txt	18
+TM1372.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1554.txt	0
+TM1554.txt	5
+TM1554.txt	6
+TM1554.txt	7
+TM1554.txt	8
+TM1554.txt	9
+TM1554.txt	10
+TM1554.txt	11
+TM1554.txt	12
+TM1554.txt	13
+TM1554.txt	14
+TM1554.txt	15
+TM1554.txt	16
+TM1554.txt	17
+TM1554.txt	18
+TM1554.txt	19
+TM1582.txt	0
+TM1582.txt	1
+TM1582.txt	2
+TM1582.txt	3
+TM1582.txt	4
+TM1582.txt	5
+TM1582.txt	6
+TM1582.txt	7
+TM1582.txt	8
+TM1582.txt	9
+TM1582.txt	10
+TM1582.txt	11
+TM1582.txt	12
+TM1582.txt	13
+TM1582.txt	14
+TM1582.txt	15
+TM1582.txt	16
+TM1582.txt	17
+TM1582.txt	18
+TM1582.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1701.txt	0
+TM1701.txt	4
+TM1701.txt	5
+TM1701.txt	6
+TM1701.txt	7
+TM1701.txt	8
+TM1701.txt	9
+TM1701.txt	10
+TM1701.txt	11
+TM1701.txt	12
+TM1701.txt	13
+TM1701.txt	14
+TM1701.txt	15
+TM1701.txt	16
+TM1701.txt	17
+TM1701.txt	18
+TM1701.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1728.txt	0
+TM1728.txt	1
+TM1728.txt	2
+TM1728.txt	3
+TM1728.txt	4
+TM1728.txt	5
+TM1728.txt	6
+TM1728.txt	7
+TM1728.txt	8
+TM1728.txt	11
+TM1728.txt	12
+TM1728.txt	13
+TM1728.txt	14
+TM1728.txt	15
+TM1728.txt	16
+TM1728.txt	17
+TM1728.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+TM174.txt	0
+TM174.txt	1
+TM174.txt	11
+TM174.txt	12
+TM174.txt	13
+TM174.txt	14
+TM174.txt	15
+TM174.txt	16
+TM174.txt	17
+TM174.txt	18
+TM174.txt	19
+
+
+
+
+
+
+
+
+
+
+TM1789.txt	0
+TM1789.txt	1
+TM1789.txt	2
+TM1789.txt	3
+TM1789.txt	4
+TM1789.txt	5
+TM1789.txt	6
+TM1789.txt	7
+TM1789.txt	8
+TM1789.txt	9
+TM1789.txt	10
+TM1789.txt	11
+TM1789.txt	15
+TM1789.txt	16
+TM1789.txt	18
+TM1789.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2067.txt	0
+TM2067.txt	1
+TM2067.txt	2
+TM2067.txt	3
+TM2067.txt	4
+TM2067.txt	5
+TM2067.txt	6
+TM2067.txt	7
+TM2067.txt	8
+TM2067.txt	9
+TM2067.txt	10
+TM2067.txt	11
+TM2067.txt	12
+TM2067.txt	14
+TM2067.txt	15
+TM2067.txt	18
+TM2067.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2100.txt	0
+TM2100.txt	1
+TM2100.txt	2
+TM2100.txt	3
+TM2100.txt	4
+TM2100.txt	5
+TM2100.txt	6
+TM2100.txt	7
+TM2100.txt	8
+TM2100.txt	9
+TM2100.txt	12
+TM2100.txt	13
+TM2100.txt	14
+TM2100.txt	16
+TM2100.txt	17
+TM2100.txt	18
+TM2100.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2156.txt	0
+TM2156.txt	1
+TM2156.txt	2
+TM2156.txt	3
+TM2156.txt	4
+TM2156.txt	5
+TM2156.txt	6
+TM2156.txt	7
+TM2156.txt	8
+TM2156.txt	9
+TM2156.txt	10
+TM2156.txt	11
+TM2156.txt	12
+TM2156.txt	13
+TM2156.txt	14
+TM2156.txt	15
+TM2156.txt	16
+TM2156.txt	17
+TM2156.txt	18
+TM2156.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+TM2237.txt	0
+TM2237.txt	1
+TM2237.txt	2
+TM2237.txt	3
+TM2237.txt	4
+TM2237.txt	5
+TM2237.txt	6
+TM2237.txt	7
+TM2237.txt	8
+TM2237.txt	9
+TM2237.txt	10
+TM2237.txt	11
+TM2237.txt	12
+TM2237.txt	13
+TM2237.txt	14
+TM2237.txt	15
+TM2237.txt	16
+TM2237.txt	17
+TM2237.txt	18
+TM2237.txt	19
+
+
+
+
+
+
+
+TM2282.txt	0
+TM2282.txt	1
+TM2282.txt	2
+TM2282.txt	3
+TM2282.txt	4
+TM2282.txt	5
+TM2282.txt	6
+TM2282.txt	7
+TM2282.txt	8
+TM2282.txt	9
+TM2282.txt	10
+TM2282.txt	11
+TM2282.txt	12
+TM2282.txt	14
+TM2282.txt	15
+TM2282.txt	17
+TM2282.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2395.txt	0
+TM2395.txt	4
+TM2395.txt	8
+TM2395.txt	11
+TM2395.txt	12
+TM2395.txt	13
+TM2395.txt	14
+TM2395.txt	15
+TM2395.txt	16
+TM2395.txt	18
+TM2395.txt	19
+TM240.txt	0
+TM240.txt	1
+TM240.txt	2
+TM240.txt	3
+TM240.txt	9
+TM240.txt	10
+TM240.txt	11
+TM240.txt	12
+TM240.txt	13
+TM240.txt	14
+TM240.txt	15
+TM240.txt	16
+TM240.txt	17
+TM240.txt	18
+TM240.txt	19
+
+
+
+
+
+
+
+
+
+
+TM2418.txt	0
+TM2418.txt	1
+TM2418.txt	3
+TM2418.txt	4
+TM2418.txt	5
+TM2418.txt	6
+TM2418.txt	7
+TM2418.txt	8
+TM2418.txt	9
+TM2418.txt	10
+TM2418.txt	11
+TM2418.txt	12
+TM2418.txt	13
+TM2418.txt	14
+TM2418.txt	16
+TM2418.txt	17
+TM2418.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2455.txt	0
+TM2455.txt	1
+TM2455.txt	2
+TM2455.txt	3
+TM2455.txt	4
+TM2455.txt	5
+TM2455.txt	6
+TM2455.txt	7
+TM2455.txt	8
+TM2455.txt	9
+TM2455.txt	10
+TM2455.txt	11
+TM2455.txt	12
+TM2455.txt	13
+TM2455.txt	14
+TM2455.txt	15
+TM2455.txt	16
+TM2455.txt	17
+TM2455.txt	18
+TM2455.txt	19
+
+
+
+
+
+
+
+
+
+
+TM251.txt	0
+TM251.txt	1
+TM251.txt	2
+TM251.txt	3
+TM251.txt	4
+TM251.txt	5
+TM251.txt	6
+TM251.txt	7
+TM251.txt	8
+TM251.txt	9
+TM251.txt	10
+TM251.txt	11
+TM251.txt	12
+TM251.txt	13
+TM251.txt	14
+TM251.txt	15
+TM251.txt	17
+TM251.txt	19
+TM2525.txt	0
+TM2525.txt	1
+TM2525.txt	2
+TM2525.txt	3
+TM2525.txt	4
+TM2525.txt	11
+TM2525.txt	12
+TM2525.txt	13
+TM2525.txt	14
+TM2525.txt	15
+TM2525.txt	17
+TM2525.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2599.txt	0
+TM2599.txt	1
+TM2599.txt	2
+TM2599.txt	3
+TM2599.txt	5
+TM2599.txt	6
+TM2599.txt	7
+TM2599.txt	8
+TM2599.txt	9
+TM2599.txt	10
+TM2599.txt	11
+TM2599.txt	19
+TM2602.txt	0
+TM2602.txt	1
+TM2602.txt	2
+TM2602.txt	3
+TM2602.txt	4
+TM2602.txt	7
+TM2602.txt	8
+TM2602.txt	9
+TM2602.txt	17
+TM2602.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2607.txt	0
+TM2607.txt	1
+TM2607.txt	2
+TM2607.txt	3
+TM2607.txt	4
+TM2607.txt	5
+TM2607.txt	6
+TM2607.txt	7
+TM2607.txt	8
+TM2607.txt	9
+TM2607.txt	10
+TM2607.txt	11
+TM2607.txt	12
+TM2607.txt	13
+TM2607.txt	14
+TM2607.txt	15
+TM2607.txt	16
+TM2607.txt	17
+TM2607.txt	18
+TM2607.txt	19
+TM261.txt	0
+TM261.txt	1
+TM261.txt	2
+TM261.txt	6
+TM261.txt	10
+TM261.txt	14
+TM261.txt	16
+TM261.txt	19
+
+
+
+
+
+
+
+
+
+
+
+TM2633.txt	0
+TM2633.txt	1
+TM2633.txt	2
+TM2633.txt	3
+TM2633.txt	4
+TM2633.txt	5
+TM2633.txt	6
+TM2633.txt	7
+TM2633.txt	8
+TM2633.txt	9
+TM2633.txt	10
+TM2633.txt	11
+TM2633.txt	12
+TM2633.txt	13
+TM2633.txt	14
+TM2633.txt	15
+TM2633.txt	16
+TM2633.txt	17
+TM2633.txt	18
+TM2633.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2688.txt	0
+TM2688.txt	1
+TM2688.txt	2
+TM2688.txt	3
+TM2688.txt	4
+TM2688.txt	5
+TM2688.txt	6
+TM2688.txt	7
+TM2688.txt	9
+TM2688.txt	12
+TM2688.txt	13
+TM2688.txt	18
+TM2688.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM295.txt	0
+TM295.txt	1
+TM295.txt	2
+TM295.txt	3
+TM295.txt	4
+TM295.txt	5
+TM295.txt	6
+TM295.txt	7
+TM295.txt	8
+TM295.txt	9
+TM295.txt	10
+TM295.txt	11
+TM295.txt	12
+TM295.txt	13
+TM295.txt	14
+TM295.txt	15
+TM295.txt	16
+TM295.txt	17
+TM295.txt	18
+TM295.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM33.txt	0
+TM33.txt	1
+TM33.txt	2
+TM33.txt	3
+TM33.txt	4
+TM33.txt	5
+TM33.txt	6
+TM33.txt	7
+TM33.txt	8
+TM33.txt	9
+TM33.txt	10
+TM33.txt	11
+TM33.txt	12
+TM33.txt	13
+TM33.txt	14
+TM33.txt	15
+TM33.txt	16
+TM33.txt	17
+TM33.txt	18
+TM33.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM461.txt	0
+TM461.txt	1
+TM461.txt	2
+TM461.txt	3
+TM461.txt	4
+TM461.txt	5
+TM461.txt	6
+TM461.txt	7
+TM461.txt	8
+TM461.txt	9
+TM461.txt	10
+TM461.txt	11
+TM461.txt	12
+TM461.txt	13
+TM461.txt	14
+TM461.txt	15
+TM461.txt	16
+TM461.txt	17
+TM461.txt	18
+TM461.txt	19
+TM47.txt	0
+TM47.txt	1
+TM47.txt	2
+TM47.txt	3
+TM47.txt	4
+TM47.txt	5
+TM47.txt	7
+TM47.txt	8
+TM47.txt	9
+TM47.txt	10
+TM47.txt	11
+TM47.txt	13
+TM47.txt	14
+TM47.txt	15
+TM47.txt	17
+TM47.txt	19
+
+
+
+TM527.txt	0
+TM527.txt	1
+TM527.txt	2
+TM527.txt	3
+TM527.txt	4
+TM527.txt	5
+TM527.txt	6
+TM527.txt	7
+TM527.txt	8
+TM527.txt	9
+TM527.txt	10
+TM527.txt	13
+TM527.txt	14
+TM527.txt	15
+TM527.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM626.txt	0
+TM626.txt	6
+TM626.txt	7
+TM626.txt	8
+TM626.txt	9
+TM626.txt	10
+TM626.txt	11
+TM626.txt	16
+TM626.txt	17
+TM626.txt	18
+TM626.txt	19
+
+
+
+
+
+
+
+
+
+
+TM659.txt	0
+TM659.txt	2
+TM659.txt	5
+TM659.txt	6
+TM659.txt	7
+TM659.txt	8
+TM659.txt	9
+TM659.txt	10
+TM659.txt	11
+TM659.txt	12
+TM659.txt	13
+TM659.txt	14
+TM659.txt	15
+TM659.txt	16
+TM659.txt	17
+TM659.txt	18
+TM659.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM704.txt	0
+TM704.txt	1
+TM704.txt	2
+TM704.txt	3
+TM704.txt	4
+TM704.txt	6
+TM704.txt	7
+TM704.txt	8
+TM704.txt	9
+TM704.txt	10
+TM704.txt	11
+TM704.txt	12
+TM704.txt	13
+TM704.txt	15
+TM704.txt	16
+TM704.txt	17
+TM704.txt	18
+TM704.txt	19
+
+
+
+
+
+
+
+
+
+
+TM787.txt	0
+TM787.txt	1
+TM787.txt	2
+TM787.txt	3
+TM787.txt	4
+TM787.txt	5
+TM787.txt	6
+TM787.txt	7
+TM787.txt	8
+TM787.txt	9
+TM787.txt	10
+TM787.txt	11
+TM787.txt	12
+TM787.txt	13
+TM787.txt	14
+TM787.txt	15
+TM787.txt	16
+TM787.txt	17
+TM787.txt	18
+TM787.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM816.txt	0
+TM816.txt	1
+TM816.txt	2
+TM816.txt	3
+TM816.txt	4
+TM816.txt	6
+TM816.txt	7
+TM816.txt	8
+TM816.txt	9
+TM816.txt	10
+TM816.txt	12
+TM816.txt	18
+TM816.txt	19
+
+
+
+
+
+
+TM859.txt	0
+TM859.txt	1
+TM859.txt	2
+TM859.txt	3
+TM859.txt	4
+TM859.txt	5
+TM859.txt	6
+TM859.txt	7
+TM859.txt	8
+TM859.txt	9
+TM859.txt	10
+TM859.txt	11
+TM859.txt	12
+TM859.txt	13
+TM859.txt	14
+TM859.txt	15
+TM859.txt	16
+TM859.txt	17
+TM859.txt	18
+TM859.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM926.txt	0
+TM926.txt	1
+TM926.txt	2
+TM926.txt	3
+TM926.txt	4
+TM926.txt	5
+TM926.txt	6
+TM926.txt	7
+TM926.txt	8
+TM926.txt	9
+TM926.txt	10
+TM926.txt	11
+TM926.txt	12
+TM926.txt	13
+TM926.txt	14
+TM926.txt	15
+TM926.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Turkishcrash.txt	0
+Turkishcrash.txt	19
+twittersummize.txt	0
+twittersummize.txt	1
+twittersummize.txt	2
+twittersummize.txt	3
+twittersummize.txt	4
+twittersummize.txt	5
+twittersummize.txt	6
+twittersummize.txt	7
+twittersummize.txt	8
+twittersummize.txt	9
+twittersummize.txt	10
+twittersummize.txt	11
+twittersummize.txt	12
+twittersummize.txt	13
+twittersummize.txt	14
+twittersummize.txt	15
+twittersummize.txt	16
+twittersummize.txt	17
+twittersummize.txt	18
+twittersummize.txt	19
+Vanessa.txt	0
+Vanessa.txt	1
+Vanessa.txt	2
+Vanessa.txt	3
+Vanessa.txt	4
+Vanessa.txt	5
+Vanessa.txt	7
+Vanessa.txt	15
+Vanessa.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+AnnieLe.txt	0
+AnnieLe.txt	2
+AnnieLe.txt	5
+AnnieLe.txt	6
+AnnieLe.txt	7
+AnnieLe.txt	8
+AnnieLe.txt	10
+AnnieLe.txt	11
+AnnieLe.txt	13
+AnnieLe.txt	14
+AnnieLe.txt	15
+AnnieLe.txt	16
+AnnieLe.txt	17
+AnnieLe.txt	18
+AnnieLe.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ClarkRockefeller.txt	0
+ClarkRockefeller.txt	12
+ClarkRockefeller.txt	18
+ClarkRockefeller.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E124.txt	0
+E124.txt	2
+E124.txt	3
+E124.txt	4
+E124.txt	5
+E124.txt	6
+E124.txt	7
+E124.txt	8
+E124.txt	9
+E124.txt	10
+E124.txt	11
+E124.txt	12
+E124.txt	16
+E124.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E136.txt	0
+E136.txt	10
+E136.txt	11
+E136.txt	12
+E136.txt	13
+E136.txt	14
+E136.txt	15
+E136.txt	16
+E136.txt	17
+E136.txt	18
+E136.txt	19
+
+
+
+
+
+
+
+
+
+E140.txt	0
+E140.txt	1
+E140.txt	5
+E140.txt	12
+E140.txt	13
+E140.txt	14
+E140.txt	16
+E140.txt	19
+E142.txt	0
+E142.txt	1
+E142.txt	2
+E142.txt	3
+E142.txt	4
+E142.txt	5
+E142.txt	6
+E142.txt	7
+E142.txt	8
+E142.txt	9
+E142.txt	10
+E142.txt	13
+E142.txt	14
+E142.txt	16
+E142.txt	17
+E142.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E20.txt	0
+E20.txt	1
+E20.txt	2
+E20.txt	3
+E20.txt	4
+E20.txt	5
+E20.txt	7
+E20.txt	19
+E200.txt	0
+E200.txt	2
+E200.txt	5
+E200.txt	6
+E200.txt	7
+E200.txt	8
+E200.txt	9
+E200.txt	10
+E200.txt	11
+E200.txt	12
+E200.txt	13
+E200.txt	14
+E200.txt	15
+E200.txt	16
+E200.txt	17
+E200.txt	18
+E200.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E212.txt	0
+E212.txt	1
+E212.txt	2
+E212.txt	3
+E212.txt	4
+E212.txt	6
+E212.txt	7
+E212.txt	8
+E212.txt	9
+E212.txt	10
+E212.txt	11
+E212.txt	12
+E212.txt	13
+E212.txt	14
+E212.txt	15
+E212.txt	16
+E212.txt	17
+E212.txt	18
+E212.txt	19
+E219.txt	0
+E219.txt	1
+E219.txt	13
+E219.txt	14
+E219.txt	15
+E219.txt	17
+E219.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E235.txt	0
+E235.txt	1
+E235.txt	2
+E235.txt	3
+E235.txt	4
+E235.txt	5
+E235.txt	6
+E235.txt	7
+E235.txt	8
+E235.txt	9
+E235.txt	10
+E235.txt	11
+E235.txt	12
+E235.txt	13
+E235.txt	14
+E235.txt	15
+E235.txt	16
+E235.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E248.txt	0
+E248.txt	3
+E248.txt	16
+E248.txt	17
+E248.txt	18
+E248.txt	19
+E25.txt	0
+E25.txt	1
+E25.txt	2
+E25.txt	3
+E25.txt	4
+E25.txt	5
+E25.txt	6
+E25.txt	7
+E25.txt	8
+E25.txt	9
+E25.txt	10
+E25.txt	12
+E25.txt	13
+E25.txt	14
+E25.txt	15
+E25.txt	16
+E25.txt	19
+E251.txt	0
+E251.txt	1
+E251.txt	2
+E251.txt	3
+E251.txt	4
+E251.txt	5
+E251.txt	6
+E251.txt	7
+E251.txt	8
+E251.txt	10
+E251.txt	12
+E251.txt	13
+E251.txt	14
+E251.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E261.txt	0
+E261.txt	1
+E261.txt	3
+E261.txt	4
+E261.txt	5
+E261.txt	7
+E261.txt	12
+E261.txt	13
+E261.txt	14
+E261.txt	15
+E261.txt	16
+E261.txt	17
+E261.txt	18
+E261.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E273.txt	0
+E273.txt	1
+E273.txt	2
+E273.txt	3
+E273.txt	4
+E273.txt	5
+E273.txt	6
+E273.txt	7
+E273.txt	8
+E273.txt	9
+E273.txt	10
+E273.txt	11
+E273.txt	12
+E273.txt	13
+E273.txt	14
+E273.txt	15
+E273.txt	16
+E273.txt	17
+E273.txt	18
+E273.txt	19
+E277.txt	0
+E277.txt	1
+E277.txt	2
+E277.txt	3
+E277.txt	4
+E277.txt	5
+E277.txt	6
+E277.txt	7
+E277.txt	8
+E277.txt	10
+E277.txt	13
+E277.txt	19
+E278.txt	0
+E278.txt	1
+E278.txt	2
+E278.txt	4
+E278.txt	5
+E278.txt	6
+E278.txt	7
+E278.txt	13
+E278.txt	19
+
+
+
+
+
+
+
+
+
+E287.txt	0
+E287.txt	1
+E287.txt	2
+E287.txt	3
+E287.txt	4
+E287.txt	5
+E287.txt	7
+E287.txt	8
+E287.txt	12
+E287.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E295.txt	0
+E295.txt	1
+E295.txt	2
+E295.txt	3
+E295.txt	4
+E295.txt	5
+E295.txt	6
+E295.txt	7
+E295.txt	8
+E295.txt	9
+E295.txt	10
+E295.txt	11
+E295.txt	13
+E295.txt	15
+E295.txt	17
+E295.txt	18
+E295.txt	19
+
+
+
+
+
+E301.txt	0
+E301.txt	1
+E301.txt	2
+E301.txt	4
+E301.txt	5
+E301.txt	6
+E301.txt	7
+E301.txt	8
+E301.txt	11
+E301.txt	12
+E301.txt	15
+E301.txt	16
+E301.txt	19
+
+
+
+
+
+
+
+
+
+
+
+E308.txt	0
+E308.txt	4
+E308.txt	5
+E308.txt	7
+E308.txt	8
+E308.txt	9
+E308.txt	10
+E308.txt	12
+E308.txt	13
+E308.txt	15
+E308.txt	17
+E308.txt	19
+
+
+
+
+
+
+
+
+
+
+E331.txt	0
+E331.txt	1
+E331.txt	4
+E331.txt	8
+E331.txt	9
+E331.txt	13
+E331.txt	14
+E331.txt	15
+E331.txt	16
+E331.txt	17
+E331.txt	18
+E331.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E349.txt	0
+E349.txt	1
+E349.txt	2
+E349.txt	3
+E349.txt	4
+E349.txt	5
+E349.txt	6
+E349.txt	7
+E349.txt	12
+E349.txt	13
+E349.txt	14
+E349.txt	15
+E349.txt	16
+E349.txt	17
+E349.txt	19
+E35.txt	0
+E35.txt	1
+E35.txt	2
+E35.txt	3
+E35.txt	6
+E35.txt	7
+E35.txt	19
+E350.txt	0
+E350.txt	1
+E350.txt	2
+E350.txt	3
+E350.txt	4
+E350.txt	5
+E350.txt	6
+E350.txt	7
+E350.txt	8
+E350.txt	9
+E350.txt	10
+E350.txt	11
+E350.txt	12
+E350.txt	13
+E350.txt	14
+E350.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E357.txt	0
+E357.txt	1
+E357.txt	2
+E357.txt	3
+E357.txt	4
+E357.txt	5
+E357.txt	6
+E357.txt	8
+E357.txt	12
+E357.txt	16
+E357.txt	17
+E357.txt	19
+
+
+
+
+
+
+
+E36.txt	0
+E36.txt	1
+E36.txt	6
+E36.txt	11
+E36.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E373.txt	0
+E373.txt	1
+E373.txt	2
+E373.txt	3
+E373.txt	4
+E373.txt	5
+E373.txt	6
+E373.txt	7
+E373.txt	8
+E373.txt	9
+E373.txt	10
+E373.txt	12
+E373.txt	13
+E373.txt	14
+E373.txt	15
+E373.txt	16
+E373.txt	19
+
+
+
+
+
+
+
+
+E382.txt	0
+E382.txt	2
+E382.txt	3
+E382.txt	4
+E382.txt	5
+E382.txt	6
+E382.txt	10
+E382.txt	11
+E382.txt	14
+E382.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E396.txt	0
+E396.txt	1
+E396.txt	2
+E396.txt	3
+E396.txt	4
+E396.txt	5
+E396.txt	6
+E396.txt	8
+E396.txt	10
+E396.txt	16
+E396.txt	19
+E398.txt	0
+E398.txt	10
+E398.txt	11
+E398.txt	12
+E398.txt	13
+E398.txt	14
+E398.txt	15
+E398.txt	16
+E398.txt	17
+E398.txt	19
+E399.txt	0
+E399.txt	1
+E399.txt	2
+E399.txt	3
+E399.txt	4
+E399.txt	5
+E399.txt	6
+E399.txt	7
+E399.txt	12
+E399.txt	13
+E399.txt	15
+E399.txt	16
+E399.txt	18
+E399.txt	19
+E402.txt	0
+E402.txt	1
+E402.txt	2
+E402.txt	3
+E402.txt	4
+E402.txt	5
+E402.txt	6
+E402.txt	7
+E402.txt	9
+E402.txt	10
+E402.txt	12
+E402.txt	13
+E402.txt	19
+E404.txt	0
+E404.txt	13
+E404.txt	14
+E404.txt	15
+E404.txt	16
+E404.txt	17
+E404.txt	18
+E404.txt	19
+
+
+
+
+
+
+E427.txt	0
+E427.txt	1
+E427.txt	2
+E427.txt	3
+E427.txt	4
+E427.txt	5
+E427.txt	6
+E427.txt	7
+E427.txt	8
+E427.txt	10
+E427.txt	11
+E427.txt	12
+E427.txt	13
+E427.txt	15
+E427.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E437.txt	0
+E437.txt	8
+E437.txt	11
+E437.txt	12
+E437.txt	13
+E437.txt	18
+E437.txt	19
+E443.txt	0
+E443.txt	1
+E443.txt	2
+E443.txt	3
+E443.txt	4
+E443.txt	5
+E443.txt	6
+E443.txt	7
+E443.txt	8
+E443.txt	9
+E443.txt	10
+E443.txt	12
+E443.txt	13
+E443.txt	14
+E443.txt	15
+E443.txt	16
+E443.txt	17
+E443.txt	18
+E443.txt	19
+E451.txt	0
+E451.txt	1
+E451.txt	2
+E451.txt	3
+E451.txt	5
+E451.txt	6
+E451.txt	7
+E451.txt	9
+E451.txt	10
+E451.txt	11
+E451.txt	12
+E451.txt	13
+E451.txt	19
+E452.txt	0
+E452.txt	1
+E452.txt	2
+E452.txt	3
+E452.txt	4
+E452.txt	5
+E452.txt	6
+E452.txt	7
+E452.txt	8
+E452.txt	9
+E452.txt	10
+E452.txt	11
+E452.txt	12
+E452.txt	13
+E452.txt	14
+E452.txt	15
+E452.txt	16
+E452.txt	17
+E452.txt	18
+E452.txt	19
+E457.txt	0
+E457.txt	1
+E457.txt	2
+E457.txt	3
+E457.txt	4
+E457.txt	5
+E457.txt	6
+E457.txt	7
+E457.txt	8
+E457.txt	9
+E457.txt	12
+E457.txt	15
+E457.txt	16
+E457.txt	18
+E457.txt	19
+E460.txt	0
+E460.txt	11
+E460.txt	12
+E460.txt	16
+E460.txt	19
+E462.txt	0
+E462.txt	1
+E462.txt	2
+E462.txt	3
+E462.txt	5
+E462.txt	8
+E462.txt	9
+E462.txt	10
+E462.txt	12
+E462.txt	13
+E462.txt	14
+E462.txt	15
+E462.txt	19
+E464.txt	0
+E464.txt	1
+E464.txt	12
+E464.txt	13
+E464.txt	14
+E464.txt	15
+E464.txt	16
+E464.txt	17
+E464.txt	18
+E464.txt	19
+E467.txt	0
+E467.txt	1
+E467.txt	2
+E467.txt	3
+E467.txt	4
+E467.txt	5
+E467.txt	6
+E467.txt	7
+E467.txt	9
+E467.txt	16
+E467.txt	19
+
+
+
+
+
+
+
+E487.txt	0
+E487.txt	1
+E487.txt	2
+E487.txt	3
+E487.txt	4
+E487.txt	5
+E487.txt	6
+E487.txt	8
+E487.txt	10
+E487.txt	11
+E487.txt	14
+E487.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E50.txt	0
+E50.txt	1
+E50.txt	2
+E50.txt	3
+E50.txt	4
+E50.txt	5
+E50.txt	7
+E50.txt	9
+E50.txt	19
+E52.txt	0
+E52.txt	1
+E52.txt	2
+E52.txt	3
+E52.txt	5
+E52.txt	7
+E52.txt	10
+E52.txt	11
+E52.txt	12
+E52.txt	13
+E52.txt	14
+E52.txt	15
+E52.txt	19
+E525.txt	0
+E525.txt	1
+E525.txt	2
+E525.txt	3
+E525.txt	4
+E525.txt	5
+E525.txt	6
+E525.txt	9
+E525.txt	10
+E525.txt	12
+E525.txt	13
+E525.txt	19
+E55.txt	0
+E55.txt	1
+E55.txt	4
+E55.txt	5
+E55.txt	10
+E55.txt	13
+E55.txt	14
+E55.txt	15
+E55.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E554.txt	0
+E554.txt	1
+E554.txt	2
+E554.txt	3
+E554.txt	4
+E554.txt	5
+E554.txt	6
+E554.txt	7
+E554.txt	8
+E554.txt	9
+E554.txt	10
+E554.txt	11
+E554.txt	12
+E554.txt	13
+E554.txt	14
+E554.txt	15
+E554.txt	16
+E554.txt	17
+E554.txt	18
+E554.txt	19
+
+
+E561.txt	0
+E561.txt	4
+E561.txt	5
+E561.txt	6
+E561.txt	7
+E561.txt	8
+E561.txt	9
+E561.txt	10
+E561.txt	11
+E561.txt	12
+E561.txt	13
+E561.txt	14
+E561.txt	18
+E561.txt	19
+E564.txt	0
+E564.txt	1
+E564.txt	2
+E564.txt	3
+E564.txt	4
+E564.txt	5
+E564.txt	6
+E564.txt	7
+E564.txt	8
+E564.txt	9
+E564.txt	10
+E564.txt	11
+E564.txt	13
+E564.txt	14
+E564.txt	16
+E564.txt	17
+E564.txt	19
+E569.txt	0
+E569.txt	1
+E569.txt	2
+E569.txt	3
+E569.txt	4
+E569.txt	5
+E569.txt	6
+E569.txt	7
+E569.txt	8
+E569.txt	9
+E569.txt	10
+E569.txt	11
+E569.txt	12
+E569.txt	13
+E569.txt	14
+E569.txt	15
+E569.txt	16
+E569.txt	17
+E569.txt	18
+E569.txt	19
+E57.txt	0
+E57.txt	1
+E57.txt	2
+E57.txt	3
+E57.txt	6
+E57.txt	7
+E57.txt	8
+E57.txt	9
+E57.txt	10
+E57.txt	11
+E57.txt	12
+E57.txt	13
+E57.txt	14
+E57.txt	15
+E57.txt	16
+E57.txt	17
+E57.txt	18
+E57.txt	19
+E574.txt	0
+E574.txt	1
+E574.txt	2
+E574.txt	3
+E574.txt	4
+E574.txt	5
+E574.txt	6
+E574.txt	10
+E574.txt	12
+E574.txt	13
+E574.txt	14
+E574.txt	15
+E574.txt	17
+E574.txt	19
+
+
+
+
+
+
+
+E579.txt	0
+E579.txt	1
+E579.txt	3
+E579.txt	4
+E579.txt	5
+E579.txt	6
+E579.txt	8
+E579.txt	9
+E579.txt	10
+E579.txt	11
+E579.txt	12
+E579.txt	16
+E579.txt	17
+E579.txt	18
+E579.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E584.txt	0
+E584.txt	1
+E584.txt	2
+E584.txt	3
+E584.txt	4
+E584.txt	5
+E584.txt	6
+E584.txt	7
+E584.txt	8
+E584.txt	9
+E584.txt	10
+E584.txt	11
+E584.txt	12
+E584.txt	13
+E584.txt	14
+E584.txt	15
+E584.txt	16
+E584.txt	17
+E584.txt	18
+E584.txt	19
+E588.txt	0
+E588.txt	1
+E588.txt	2
+E588.txt	3
+E588.txt	4
+E588.txt	5
+E588.txt	6
+E588.txt	7
+E588.txt	8
+E588.txt	9
+E588.txt	10
+E588.txt	11
+E588.txt	12
+E588.txt	13
+E588.txt	15
+E588.txt	18
+E588.txt	19
+E593.txt	0
+E593.txt	1
+E593.txt	2
+E593.txt	3
+E593.txt	4
+E593.txt	5
+E593.txt	6
+E593.txt	7
+E593.txt	12
+E593.txt	13
+E593.txt	17
+E593.txt	19
+E602.txt	0
+E602.txt	1
+E602.txt	2
+E602.txt	3
+E602.txt	4
+E602.txt	5
+E602.txt	6
+E602.txt	8
+E602.txt	9
+E602.txt	10
+E602.txt	12
+E602.txt	15
+E602.txt	16
+E602.txt	18
+E602.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E619.txt	0
+E619.txt	1
+E619.txt	2
+E619.txt	3
+E619.txt	4
+E619.txt	5
+E619.txt	6
+E619.txt	7
+E619.txt	8
+E619.txt	9
+E619.txt	10
+E619.txt	12
+E619.txt	13
+E619.txt	14
+E619.txt	16
+E619.txt	19
+
+
+
+
+
+
+
+E630.txt	0
+E630.txt	1
+E630.txt	2
+E630.txt	4
+E630.txt	8
+E630.txt	16
+E630.txt	17
+E630.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E640.txt	0
+E640.txt	1
+E640.txt	2
+E640.txt	3
+E640.txt	4
+E640.txt	6
+E640.txt	7
+E640.txt	8
+E640.txt	15
+E640.txt	19
+
+
+
+
+
+
+
+
+
+E654.txt	0
+E654.txt	1
+E654.txt	2
+E654.txt	3
+E654.txt	5
+E654.txt	6
+E654.txt	7
+E654.txt	14
+E654.txt	15
+E654.txt	18
+E654.txt	19
+E661.txt	0
+E661.txt	1
+E661.txt	2
+E661.txt	3
+E661.txt	4
+E661.txt	9
+E661.txt	19
+E668.txt	0
+E668.txt	2
+E668.txt	3
+E668.txt	4
+E668.txt	7
+E668.txt	8
+E668.txt	10
+E668.txt	11
+E668.txt	12
+E668.txt	13
+E668.txt	16
+E668.txt	17
+E668.txt	18
+E668.txt	19
+E67.txt	0
+E67.txt	1
+E67.txt	2
+E67.txt	3
+E67.txt	4
+E67.txt	5
+E67.txt	6
+E67.txt	7
+E67.txt	8
+E67.txt	9
+E67.txt	10
+E67.txt	11
+E67.txt	12
+E67.txt	14
+E67.txt	15
+E67.txt	16
+E67.txt	17
+E67.txt	18
+E67.txt	19
+E696.txt	0
+E696.txt	1
+E696.txt	2
+E696.txt	3
+E696.txt	4
+E696.txt	5
+E696.txt	6
+E696.txt	7
+E696.txt	8
+E696.txt	9
+E696.txt	10
+E696.txt	11
+E696.txt	12
+E696.txt	14
+E696.txt	15
+E696.txt	17
+E696.txt	18
+E696.txt	19
+
+
+
+
+
+
+
+
+
+E698.txt	0
+E698.txt	1
+E698.txt	2
+E698.txt	4
+E698.txt	6
+E698.txt	7
+E698.txt	8
+E698.txt	9
+E698.txt	10
+E698.txt	12
+E698.txt	13
+E698.txt	14
+E698.txt	15
+E698.txt	16
+E698.txt	17
+E698.txt	18
+E698.txt	19
+E703.txt	0
+E703.txt	4
+E703.txt	5
+E703.txt	8
+E703.txt	11
+E703.txt	12
+E703.txt	13
+E703.txt	14
+E703.txt	15
+E703.txt	16
+E703.txt	17
+E703.txt	18
+E703.txt	19
+E708.txt	0
+E708.txt	1
+E708.txt	2
+E708.txt	3
+E708.txt	4
+E708.txt	5
+E708.txt	6
+E708.txt	7
+E708.txt	8
+E708.txt	10
+E708.txt	15
+E708.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E721.txt	0
+E721.txt	2
+E721.txt	8
+E721.txt	9
+E721.txt	10
+E721.txt	11
+E721.txt	12
+E721.txt	13
+E721.txt	14
+E721.txt	15
+E721.txt	16
+E721.txt	17
+E721.txt	18
+E721.txt	19
+
+
+
+
+
+
+
+E732.txt	0
+E732.txt	1
+E732.txt	2
+E732.txt	3
+E732.txt	4
+E732.txt	5
+E732.txt	6
+E732.txt	7
+E732.txt	8
+E732.txt	9
+E732.txt	13
+E732.txt	14
+E732.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E737.txt	0
+E737.txt	7
+E737.txt	8
+E737.txt	9
+E737.txt	10
+E737.txt	11
+E737.txt	12
+E737.txt	13
+E737.txt	14
+E737.txt	15
+E737.txt	16
+E737.txt	17
+E737.txt	18
+E737.txt	19
+E74.txt	0
+E74.txt	1
+E74.txt	2
+E74.txt	3
+E74.txt	4
+E74.txt	5
+E74.txt	6
+E74.txt	7
+E74.txt	8
+E74.txt	9
+E74.txt	10
+E74.txt	11
+E74.txt	12
+E74.txt	13
+E74.txt	14
+E74.txt	15
+E74.txt	16
+E74.txt	17
+E74.txt	18
+E74.txt	19
+E743.txt	0
+E743.txt	1
+E743.txt	2
+E743.txt	3
+E743.txt	4
+E743.txt	6
+E743.txt	10
+E743.txt	11
+E743.txt	12
+E743.txt	13
+E743.txt	14
+E743.txt	19
+
+
+
+
+
+
+
+
+
+
+E754.txt	0
+E754.txt	1
+E754.txt	2
+E754.txt	3
+E754.txt	4
+E754.txt	5
+E754.txt	6
+E754.txt	7
+E754.txt	9
+E754.txt	11
+E754.txt	18
+E754.txt	19
+E755.txt	0
+E755.txt	1
+E755.txt	2
+E755.txt	3
+E755.txt	4
+E755.txt	6
+E755.txt	7
+E755.txt	8
+E755.txt	10
+E755.txt	11
+E755.txt	12
+E755.txt	14
+E755.txt	15
+E755.txt	19
+E756.txt	0
+E756.txt	1
+E756.txt	2
+E756.txt	3
+E756.txt	4
+E756.txt	5
+E756.txt	6
+E756.txt	7
+E756.txt	8
+E756.txt	9
+E756.txt	10
+E756.txt	13
+E756.txt	18
+E756.txt	19
+E762.txt	0
+E762.txt	2
+E762.txt	16
+E762.txt	17
+E762.txt	18
+E762.txt	19
+E764.txt	0
+E764.txt	2
+E764.txt	3
+E764.txt	4
+E764.txt	5
+E764.txt	6
+E764.txt	7
+E764.txt	10
+E764.txt	16
+E764.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E771.txt	0
+E771.txt	1
+E771.txt	2
+E771.txt	3
+E771.txt	4
+E771.txt	5
+E771.txt	6
+E771.txt	7
+E771.txt	8
+E771.txt	9
+E771.txt	10
+E771.txt	11
+E771.txt	12
+E771.txt	13
+E771.txt	14
+E771.txt	17
+E771.txt	19
+
+
+
+
+
+E773.txt	0
+E773.txt	1
+E773.txt	2
+E773.txt	3
+E773.txt	4
+E773.txt	5
+E773.txt	6
+E773.txt	7
+E773.txt	8
+E773.txt	9
+E773.txt	10
+E773.txt	11
+E773.txt	12
+E773.txt	13
+E773.txt	14
+E773.txt	17
+E773.txt	19
+E777.txt	0
+E777.txt	1
+E777.txt	3
+E777.txt	4
+E777.txt	5
+E777.txt	6
+E777.txt	7
+E777.txt	8
+E777.txt	9
+E777.txt	10
+E777.txt	12
+E777.txt	13
+E777.txt	14
+E777.txt	15
+E777.txt	16
+E777.txt	17
+E777.txt	18
+E777.txt	19
+
+
+
+
+
+
+
+E79.txt	0
+E79.txt	1
+E79.txt	2
+E79.txt	3
+E79.txt	4
+E79.txt	5
+E79.txt	6
+E79.txt	7
+E79.txt	8
+E79.txt	9
+E79.txt	10
+E79.txt	12
+E79.txt	13
+E79.txt	14
+E79.txt	15
+E79.txt	18
+E79.txt	19
+E790.txt	0
+E790.txt	1
+E790.txt	2
+E790.txt	3
+E790.txt	4
+E790.txt	5
+E790.txt	6
+E790.txt	7
+E790.txt	8
+E790.txt	9
+E790.txt	10
+E790.txt	11
+E790.txt	12
+E790.txt	13
+E790.txt	14
+E790.txt	15
+E790.txt	16
+E790.txt	17
+E790.txt	18
+E790.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E94.txt	0
+E94.txt	1
+E94.txt	2
+E94.txt	3
+E94.txt	4
+E94.txt	6
+E94.txt	7
+E94.txt	8
+E94.txt	9
+E94.txt	10
+E94.txt	11
+E94.txt	13
+E94.txt	14
+E94.txt	15
+E94.txt	19
+E97.txt	0
+E97.txt	1
+E97.txt	2
+E97.txt	3
+E97.txt	4
+E97.txt	5
+E97.txt	6
+E97.txt	7
+E97.txt	9
+E97.txt	13
+E97.txt	14
+E97.txt	15
+E97.txt	16
+E97.txt	17
+E97.txt	19
+
+
+
+
+
+
+
+
+
+
+Georgetiller.txt	0
+Georgetiller.txt	8
+Georgetiller.txt	9
+Georgetiller.txt	10
+Georgetiller.txt	11
+Georgetiller.txt	12
+Georgetiller.txt	14
+Georgetiller.txt	15
+Georgetiller.txt	16
+Georgetiller.txt	17
+Georgetiller.txt	18
+Georgetiller.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NikonD300s.txt	0
+NikonD300s.txt	2
+NikonD300s.txt	13
+NikonD300s.txt	15
+NikonD300s.txt	16
+NikonD300s.txt	17
+NikonD300s.txt	18
+NikonD300s.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OJSimpson.txt	0
+OJSimpson.txt	5
+OJSimpson.txt	19
+PlaxicoBurress.txt	0
+PlaxicoBurress.txt	1
+PlaxicoBurress.txt	2
+PlaxicoBurress.txt	3
+PlaxicoBurress.txt	5
+PlaxicoBurress.txt	6
+PlaxicoBurress.txt	7
+PlaxicoBurress.txt	8
+PlaxicoBurress.txt	9
+PlaxicoBurress.txt	10
+PlaxicoBurress.txt	11
+PlaxicoBurress.txt	12
+PlaxicoBurress.txt	13
+PlaxicoBurress.txt	14
+PlaxicoBurress.txt	15
+PlaxicoBurress.txt	16
+PlaxicoBurress.txt	17
+PlaxicoBurress.txt	18
+PlaxicoBurress.txt	19
+PspGo.txt	0
+PspGo.txt	1
+PspGo.txt	2
+PspGo.txt	3
+PspGo.txt	4
+PspGo.txt	5
+PspGo.txt	6
+PspGo.txt	7
+PspGo.txt	8
+PspGo.txt	9
+PspGo.txt	10
+PspGo.txt	11
+PspGo.txt	12
+PspGo.txt	13
+PspGo.txt	14
+PspGo.txt	15
+PspGo.txt	16
+PspGo.txt	17
+PspGo.txt	18
+PspGo.txt	19
+
+
+
+
+TM1019.txt	0
+TM1019.txt	2
+TM1019.txt	3
+TM1019.txt	4
+TM1019.txt	5
+TM1019.txt	6
+TM1019.txt	7
+TM1019.txt	8
+TM1019.txt	9
+TM1019.txt	10
+TM1019.txt	11
+TM1019.txt	12
+TM1019.txt	14
+TM1019.txt	15
+TM1019.txt	19
+TM1080.txt	0
+TM1080.txt	1
+TM1080.txt	2
+TM1080.txt	3
+TM1080.txt	4
+TM1080.txt	5
+TM1080.txt	6
+TM1080.txt	7
+TM1080.txt	8
+TM1080.txt	9
+TM1080.txt	10
+TM1080.txt	12
+TM1080.txt	13
+TM1080.txt	14
+TM1080.txt	15
+TM1080.txt	16
+TM1080.txt	17
+TM1080.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1315.txt	0
+TM1315.txt	1
+TM1315.txt	2
+TM1315.txt	3
+TM1315.txt	4
+TM1315.txt	5
+TM1315.txt	6
+TM1315.txt	7
+TM1315.txt	8
+TM1315.txt	9
+TM1315.txt	10
+TM1315.txt	11
+TM1315.txt	12
+TM1315.txt	13
+TM1315.txt	14
+TM1315.txt	15
+TM1315.txt	16
+TM1315.txt	17
+TM1315.txt	18
+TM1315.txt	19
+
+
+
+
+
+TM1352.txt	0
+TM1352.txt	1
+TM1352.txt	2
+TM1352.txt	3
+TM1352.txt	4
+TM1352.txt	5
+TM1352.txt	6
+TM1352.txt	7
+TM1352.txt	8
+TM1352.txt	9
+TM1352.txt	11
+TM1352.txt	13
+TM1352.txt	14
+TM1352.txt	15
+TM1352.txt	16
+TM1352.txt	17
+TM1352.txt	19
+TM1403.txt	0
+TM1403.txt	1
+TM1403.txt	6
+TM1403.txt	7
+TM1403.txt	8
+TM1403.txt	9
+TM1403.txt	10
+TM1403.txt	11
+TM1403.txt	12
+TM1403.txt	18
+TM1403.txt	19
+
+
+
+
+
+
+TM1495.txt	0
+TM1495.txt	8
+TM1495.txt	10
+TM1495.txt	11
+TM1495.txt	12
+TM1495.txt	13
+TM1495.txt	14
+TM1495.txt	15
+TM1495.txt	16
+TM1495.txt	17
+TM1495.txt	18
+TM1495.txt	19
+
+
+
+
+
+
+
+
+
+TM1535.txt	0
+TM1535.txt	1
+TM1535.txt	2
+TM1535.txt	3
+TM1535.txt	4
+TM1535.txt	5
+TM1535.txt	7
+TM1535.txt	8
+TM1535.txt	9
+TM1535.txt	10
+TM1535.txt	12
+TM1535.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM1608.txt	0
+TM1608.txt	1
+TM1608.txt	2
+TM1608.txt	3
+TM1608.txt	4
+TM1608.txt	5
+TM1608.txt	6
+TM1608.txt	9
+TM1608.txt	11
+TM1608.txt	12
+TM1608.txt	13
+TM1608.txt	15
+TM1608.txt	16
+TM1608.txt	17
+TM1608.txt	18
+TM1608.txt	19
+TM162.txt	0
+TM162.txt	6
+TM162.txt	7
+TM162.txt	8
+TM162.txt	18
+TM162.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2039.txt	0
+TM2039.txt	5
+TM2039.txt	6
+TM2039.txt	7
+TM2039.txt	8
+TM2039.txt	12
+TM2039.txt	13
+TM2039.txt	14
+TM2039.txt	15
+TM2039.txt	16
+TM2039.txt	17
+TM2039.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2214.txt	0
+TM2214.txt	1
+TM2214.txt	3
+TM2214.txt	4
+TM2214.txt	5
+TM2214.txt	6
+TM2214.txt	7
+TM2214.txt	8
+TM2214.txt	9
+TM2214.txt	10
+TM2214.txt	11
+TM2214.txt	13
+TM2214.txt	17
+TM2214.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2536.txt	0
+TM2536.txt	1
+TM2536.txt	2
+TM2536.txt	3
+TM2536.txt	6
+TM2536.txt	9
+TM2536.txt	15
+TM2536.txt	19
+TM392.txt	0
+TM392.txt	1
+TM392.txt	2
+TM392.txt	3
+TM392.txt	4
+TM392.txt	5
+TM392.txt	6
+TM392.txt	7
+TM392.txt	8
+TM392.txt	9
+TM392.txt	10
+TM392.txt	11
+TM392.txt	12
+TM392.txt	13
+TM392.txt	14
+TM392.txt	15
+TM392.txt	16
+TM392.txt	17
+TM392.txt	18
+TM392.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM638.txt	0
+TM638.txt	1
+TM638.txt	2
+TM638.txt	3
+TM638.txt	4
+TM638.txt	5
+TM638.txt	6
+TM638.txt	8
+TM638.txt	9
+TM638.txt	10
+TM638.txt	19
+TM71.txt	0
+TM71.txt	1
+TM71.txt	5
+TM71.txt	6
+TM71.txt	7
+TM71.txt	8
+TM71.txt	9
+TM71.txt	10
+TM71.txt	11
+TM71.txt	16
+TM71.txt	17
+TM71.txt	18
+TM71.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM840.txt	0
+TM840.txt	1
+TM840.txt	2
+TM840.txt	3
+TM840.txt	4
+TM840.txt	5
+TM840.txt	6
+TM840.txt	7
+TM840.txt	8
+TM840.txt	9
+TM840.txt	10
+TM840.txt	11
+TM840.txt	12
+TM840.txt	13
+TM840.txt	14
+TM840.txt	15
+TM840.txt	16
+TM840.txt	19
+westNile.txt	0
+westNile.txt	2
+westNile.txt	3
+westNile.txt	6
+westNile.txt	7
+westNile.txt	10
+westNile.txt	11
+westNile.txt	12
+westNile.txt	13
+westNile.txt	14
+westNile.txt	15
+westNile.txt	16
+westNile.txt	17
+westNile.txt	18
+westNile.txt	19
+Dell.txt	0
+Dell.txt	4
+Dell.txt	5
+Dell.txt	9
+Dell.txt	18
+Dell.txt	19
+E108.txt	0
+E108.txt	8
+E108.txt	9
+E108.txt	10
+E108.txt	11
+E108.txt	19
+E141.txt	0
+E141.txt	1
+E141.txt	2
+E141.txt	3
+E141.txt	4
+E141.txt	5
+E141.txt	6
+E141.txt	7
+E141.txt	8
+E141.txt	9
+E141.txt	10
+E141.txt	11
+E141.txt	12
+E141.txt	13
+E141.txt	14
+E141.txt	15
+E141.txt	17
+E141.txt	18
+E141.txt	19
+E178.txt	0
+E178.txt	1
+E178.txt	2
+E178.txt	3
+E178.txt	7
+E178.txt	19
+E180.txt	0
+E180.txt	1
+E180.txt	2
+E180.txt	3
+E180.txt	4
+E180.txt	5
+E180.txt	6
+E180.txt	7
+E180.txt	8
+E180.txt	9
+E180.txt	10
+E180.txt	11
+E180.txt	13
+E180.txt	16
+E180.txt	17
+E180.txt	18
+E180.txt	19
+
+
+
+
+
+
+E185.txt	0
+E185.txt	1
+E185.txt	2
+E185.txt	3
+E185.txt	5
+E185.txt	6
+E185.txt	10
+E185.txt	11
+E185.txt	13
+E185.txt	16
+E185.txt	19
+E24.txt	0
+E24.txt	1
+E24.txt	2
+E24.txt	3
+E24.txt	4
+E24.txt	5
+E24.txt	6
+E24.txt	7
+E24.txt	9
+E24.txt	12
+E24.txt	13
+E24.txt	15
+E24.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E271.txt	0
+E271.txt	1
+E271.txt	2
+E271.txt	3
+E271.txt	4
+E271.txt	5
+E271.txt	6
+E271.txt	8
+E271.txt	9
+E271.txt	10
+E271.txt	11
+E271.txt	12
+E271.txt	13
+E271.txt	14
+E271.txt	15
+E271.txt	16
+E271.txt	19
+E283.txt	0
+E283.txt	1
+E283.txt	14
+E283.txt	15
+E283.txt	16
+E283.txt	17
+E283.txt	18
+E283.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E314.txt	0
+E314.txt	1
+E314.txt	2
+E314.txt	3
+E314.txt	4
+E314.txt	5
+E314.txt	6
+E314.txt	7
+E314.txt	8
+E314.txt	9
+E314.txt	10
+E314.txt	11
+E314.txt	12
+E314.txt	17
+E314.txt	18
+E314.txt	19
+
+
+
+E323.txt	0
+E323.txt	1
+E323.txt	2
+E323.txt	3
+E323.txt	4
+E323.txt	5
+E323.txt	6
+E323.txt	7
+E323.txt	8
+E323.txt	9
+E323.txt	10
+E323.txt	11
+E323.txt	12
+E323.txt	13
+E323.txt	14
+E323.txt	15
+E323.txt	17
+E323.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E345.txt	0
+E345.txt	1
+E345.txt	2
+E345.txt	11
+E345.txt	12
+E345.txt	13
+E345.txt	14
+E345.txt	15
+E345.txt	16
+E345.txt	17
+E345.txt	18
+E345.txt	19
+E351.txt	0
+E351.txt	1
+E351.txt	2
+E351.txt	3
+E351.txt	4
+E351.txt	6
+E351.txt	19
+
+
+E37.txt	0
+E37.txt	1
+E37.txt	2
+E37.txt	3
+E37.txt	4
+E37.txt	5
+E37.txt	6
+E37.txt	8
+E37.txt	10
+E37.txt	14
+E37.txt	15
+E37.txt	16
+E37.txt	17
+E37.txt	18
+E37.txt	19
+E378.txt	0
+E378.txt	1
+E378.txt	2
+E378.txt	3
+E378.txt	4
+E378.txt	5
+E378.txt	6
+E378.txt	7
+E378.txt	9
+E378.txt	10
+E378.txt	11
+E378.txt	12
+E378.txt	13
+E378.txt	14
+E378.txt	15
+E378.txt	16
+E378.txt	17
+E378.txt	18
+E378.txt	19
+E379.txt	0
+E379.txt	1
+E379.txt	2
+E379.txt	3
+E379.txt	4
+E379.txt	5
+E379.txt	6
+E379.txt	7
+E379.txt	8
+E379.txt	12
+E379.txt	15
+E379.txt	17
+E379.txt	19
+E380.txt	0
+E380.txt	13
+E380.txt	14
+E380.txt	15
+E380.txt	17
+E380.txt	19
+E424.txt	0
+E424.txt	1
+E424.txt	2
+E424.txt	3
+E424.txt	4
+E424.txt	5
+E424.txt	6
+E424.txt	7
+E424.txt	8
+E424.txt	9
+E424.txt	10
+E424.txt	11
+E424.txt	12
+E424.txt	14
+E424.txt	16
+E424.txt	17
+E424.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+E440.txt	0
+E440.txt	1
+E440.txt	4
+E440.txt	6
+E440.txt	7
+E440.txt	8
+E440.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+E458.txt	0
+E458.txt	1
+E458.txt	2
+E458.txt	3
+E458.txt	4
+E458.txt	6
+E458.txt	7
+E458.txt	8
+E458.txt	9
+E458.txt	10
+E458.txt	11
+E458.txt	12
+E458.txt	13
+E458.txt	15
+E458.txt	19
+
+
+
+
+
+
+
+
+E486.txt	0
+E486.txt	1
+E486.txt	2
+E486.txt	3
+E486.txt	5
+E486.txt	8
+E486.txt	13
+E486.txt	16
+E486.txt	19
+E496.txt	0
+E496.txt	13
+E496.txt	14
+E496.txt	15
+E496.txt	17
+E496.txt	19
+E502.txt	0
+E502.txt	1
+E502.txt	2
+E502.txt	3
+E502.txt	4
+E502.txt	5
+E502.txt	7
+E502.txt	8
+E502.txt	9
+E502.txt	10
+E502.txt	12
+E502.txt	13
+E502.txt	14
+E502.txt	15
+E502.txt	16
+E502.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E541.txt	0
+E541.txt	1
+E541.txt	2
+E541.txt	3
+E541.txt	4
+E541.txt	5
+E541.txt	6
+E541.txt	8
+E541.txt	9
+E541.txt	11
+E541.txt	13
+E541.txt	19
+E542.txt	0
+E542.txt	1
+E542.txt	2
+E542.txt	3
+E542.txt	5
+E542.txt	6
+E542.txt	7
+E542.txt	8
+E542.txt	9
+E542.txt	10
+E542.txt	11
+E542.txt	12
+E542.txt	13
+E542.txt	14
+E542.txt	15
+E542.txt	16
+E542.txt	18
+E542.txt	19
+E543.txt	0
+E543.txt	1
+E543.txt	2
+E543.txt	3
+E543.txt	4
+E543.txt	6
+E543.txt	18
+E543.txt	19
+
+
+
+
+E562.txt	0
+E562.txt	1
+E562.txt	2
+E562.txt	3
+E562.txt	4
+E562.txt	5
+E562.txt	6
+E562.txt	7
+E562.txt	8
+E562.txt	10
+E562.txt	11
+E562.txt	15
+E562.txt	18
+E562.txt	19
+E582.txt	0
+E582.txt	1
+E582.txt	2
+E582.txt	3
+E582.txt	4
+E582.txt	5
+E582.txt	6
+E582.txt	7
+E582.txt	8
+E582.txt	9
+E582.txt	10
+E582.txt	11
+E582.txt	12
+E582.txt	13
+E582.txt	14
+E582.txt	15
+E582.txt	16
+E582.txt	17
+E582.txt	18
+E582.txt	19
+
+
+
+
+
+
+E594.txt	0
+E594.txt	4
+E594.txt	5
+E594.txt	6
+E594.txt	7
+E594.txt	8
+E594.txt	9
+E594.txt	10
+E594.txt	11
+E594.txt	12
+E594.txt	13
+E594.txt	14
+E594.txt	16
+E594.txt	17
+E594.txt	18
+E594.txt	19
+E596.txt	0
+E596.txt	1
+E596.txt	3
+E596.txt	4
+E596.txt	6
+E596.txt	12
+E596.txt	13
+E596.txt	14
+E596.txt	15
+E596.txt	16
+E596.txt	17
+E596.txt	18
+E596.txt	19
+
+
+
+
+
+
+
+
+
+E634.txt	0
+E634.txt	3
+E634.txt	4
+E634.txt	5
+E634.txt	7
+E634.txt	16
+E634.txt	17
+E634.txt	18
+E634.txt	19
+E642.txt	0
+E642.txt	7
+E642.txt	8
+E642.txt	10
+E642.txt	12
+E642.txt	13
+E642.txt	14
+E642.txt	16
+E642.txt	17
+E642.txt	18
+E642.txt	19
+E644.txt	0
+E644.txt	1
+E644.txt	2
+E644.txt	3
+E644.txt	4
+E644.txt	5
+E644.txt	6
+E644.txt	8
+E644.txt	9
+E644.txt	10
+E644.txt	13
+E644.txt	14
+E644.txt	17
+E644.txt	18
+E644.txt	19
+
+
+
+
+
+
+
+
+E657.txt	0
+E657.txt	1
+E657.txt	19
+E663.txt	0
+E663.txt	1
+E663.txt	4
+E663.txt	16
+E663.txt	19
+E665.txt	0
+E665.txt	3
+E665.txt	4
+E665.txt	5
+E665.txt	6
+E665.txt	7
+E665.txt	8
+E665.txt	9
+E665.txt	10
+E665.txt	11
+E665.txt	12
+E665.txt	13
+E665.txt	14
+E665.txt	15
+E665.txt	16
+E665.txt	17
+E665.txt	18
+E665.txt	19
+E666.txt	0
+E666.txt	1
+E666.txt	2
+E666.txt	3
+E666.txt	4
+E666.txt	5
+E666.txt	6
+E666.txt	7
+E666.txt	8
+E666.txt	9
+E666.txt	11
+E666.txt	12
+E666.txt	14
+E666.txt	15
+E666.txt	19
+E704.txt	0
+E704.txt	1
+E704.txt	2
+E704.txt	3
+E704.txt	4
+E704.txt	5
+E704.txt	6
+E704.txt	8
+E704.txt	9
+E704.txt	10
+E704.txt	11
+E704.txt	15
+E704.txt	17
+E704.txt	19
+
+
+
+
+
+
+
+
+E723.txt	0
+E723.txt	12
+E723.txt	13
+E723.txt	14
+E723.txt	15
+E723.txt	16
+E723.txt	17
+E723.txt	18
+E723.txt	19
+E735.txt	0
+E735.txt	1
+E735.txt	2
+E735.txt	3
+E735.txt	4
+E735.txt	5
+E735.txt	6
+E735.txt	7
+E735.txt	9
+E735.txt	11
+E735.txt	12
+E735.txt	14
+E735.txt	15
+E735.txt	17
+E735.txt	18
+E735.txt	19
+E745.txt	0
+E745.txt	1
+E745.txt	2
+E745.txt	3
+E745.txt	4
+E745.txt	6
+E745.txt	9
+E745.txt	11
+E745.txt	19
+
+
+
+
+
+
+
+
+E766.txt	0
+E766.txt	1
+E766.txt	3
+E766.txt	4
+E766.txt	10
+E766.txt	11
+E766.txt	12
+E766.txt	13
+E766.txt	14
+E766.txt	19
+E768.txt	0
+E768.txt	1
+E768.txt	2
+E768.txt	3
+E768.txt	4
+E768.txt	5
+E768.txt	6
+E768.txt	7
+E768.txt	8
+E768.txt	9
+E768.txt	10
+E768.txt	11
+E768.txt	12
+E768.txt	13
+E768.txt	14
+E768.txt	15
+E768.txt	16
+E768.txt	17
+E768.txt	18
+E768.txt	19
+
+
+
+
+
+
+
+
+
+
+E785.txt	0
+E785.txt	1
+E785.txt	3
+E785.txt	6
+E785.txt	8
+E785.txt	9
+E785.txt	10
+E785.txt	12
+E785.txt	13
+E785.txt	14
+E785.txt	15
+E785.txt	16
+E785.txt	18
+E785.txt	19
+E787.txt	0
+E787.txt	1
+E787.txt	4
+E787.txt	5
+E787.txt	7
+E787.txt	8
+E787.txt	9
+E787.txt	10
+E787.txt	11
+E787.txt	12
+E787.txt	15
+E787.txt	16
+E787.txt	17
+E787.txt	18
+E787.txt	19
+
+
+
+
+
+TM1079.txt	0
+TM1079.txt	1
+TM1079.txt	2
+TM1079.txt	7
+TM1079.txt	8
+TM1079.txt	9
+TM1079.txt	10
+TM1079.txt	11
+TM1079.txt	12
+TM1079.txt	13
+TM1079.txt	14
+TM1079.txt	15
+TM1079.txt	17
+TM1079.txt	19
+
+
+
+
+
+
+
+
+
+
+TM1582.txt	0
+TM1582.txt	1
+TM1582.txt	2
+TM1582.txt	3
+TM1582.txt	4
+TM1582.txt	5
+TM1582.txt	6
+TM1582.txt	7
+TM1582.txt	8
+TM1582.txt	9
+TM1582.txt	10
+TM1582.txt	11
+TM1582.txt	12
+TM1582.txt	13
+TM1582.txt	14
+TM1582.txt	15
+TM1582.txt	16
+TM1582.txt	17
+TM1582.txt	18
+TM1582.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM2602.txt	0
+TM2602.txt	1
+TM2602.txt	2
+TM2602.txt	3
+TM2602.txt	4
+TM2602.txt	7
+TM2602.txt	8
+TM2602.txt	9
+TM2602.txt	17
+TM2602.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM461.txt	0
+TM461.txt	1
+TM461.txt	2
+TM461.txt	3
+TM461.txt	4
+TM461.txt	5
+TM461.txt	6
+TM461.txt	7
+TM461.txt	8
+TM461.txt	9
+TM461.txt	10
+TM461.txt	11
+TM461.txt	12
+TM461.txt	13
+TM461.txt	14
+TM461.txt	15
+TM461.txt	16
+TM461.txt	17
+TM461.txt	18
+TM461.txt	19
+TM527.txt	0
+TM527.txt	1
+TM527.txt	2
+TM527.txt	3
+TM527.txt	4
+TM527.txt	5
+TM527.txt	6
+TM527.txt	7
+TM527.txt	8
+TM527.txt	9
+TM527.txt	10
+TM527.txt	13
+TM527.txt	14
+TM527.txt	15
+TM527.txt	19
+TM659.txt	0
+TM659.txt	2
+TM659.txt	5
+TM659.txt	6
+TM659.txt	7
+TM659.txt	8
+TM659.txt	9
+TM659.txt	10
+TM659.txt	11
+TM659.txt	12
+TM659.txt	13
+TM659.txt	14
+TM659.txt	15
+TM659.txt	16
+TM659.txt	17
+TM659.txt	18
+TM659.txt	19
+
+
+
+
+
+
+
+
+
+
+TM787.txt	0
+TM787.txt	1
+TM787.txt	2
+TM787.txt	3
+TM787.txt	4
+TM787.txt	5
+TM787.txt	6
+TM787.txt	7
+TM787.txt	8
+TM787.txt	9
+TM787.txt	10
+TM787.txt	11
+TM787.txt	12
+TM787.txt	13
+TM787.txt	14
+TM787.txt	15
+TM787.txt	16
+TM787.txt	17
+TM787.txt	18
+TM787.txt	19
+
+
+
+
+
+
+
+
+
+
+TM816.txt	0
+TM816.txt	1
+TM816.txt	2
+TM816.txt	3
+TM816.txt	4
+TM816.txt	6
+TM816.txt	7
+TM816.txt	8
+TM816.txt	9
+TM816.txt	10
+TM816.txt	12
+TM816.txt	18
+TM816.txt	19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
