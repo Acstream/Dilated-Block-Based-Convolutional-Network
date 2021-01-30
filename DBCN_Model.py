@@ -78,7 +78,7 @@ class DBCN_Model:
         Building the structure and related calculate operations of DBCN.
 
         :param sess: A `tf.Session` representing the session of the tensorflow model.
-        :return: The calculate operations of loss, accuarcy, adam optimization, model predictions and real labels of the model.
+        :return: The calculate operations of loss, accuracy, adam optimization, model predictions and real labels of the model.
         '''
         print("Building DBCN model!")
 
@@ -109,7 +109,7 @@ class DBCN_Model:
         # The following codes reshape and unstack the input in order to let the input adapt the operation of column-wise dilated convolutional layer.
         with tf.name_scope("inputs"):
             inputs_reshape = tf.expand_dims(inputs, -1)# reshape the inputs (expand the dimension of inputs from 3-D to 4-D (Batch,GroupNum,Embedding Size)=>(Batch,GroupNum,Embedding Size,1)).
-            inputs_unstack = tf.unstack(inputs_reshape, axis=2)# unstack the inputs on the 3rd axis--Embedding Size, the shape of inputs will change to Embedding Size*(Batch,GroupNum,1)
+            inputs_unstack = tf.unstack(inputs_reshape, axis=2)# unstack the inputs on the 3rd axis--Embedding Size, the shape of inputs will change to Embedding Size*(Batch,GroupNum,1).
 
         # The following codes send the inputs into residual convolutional layers and perform related operations.
         with tf.name_scope("residual_convolution"):
@@ -153,24 +153,24 @@ class DBCN_Model:
 
         # The following codes concatenate the results of second dilated block and the results residual convolution and perform other operations.
         with tf.name_scope("concat_pool_flat_output"):
-            concatres = tf.concat([convres, convres2], axis=1)# concatenation
+            concatres = tf.concat([convres, convres2], axis=1)# concatenation.
             print("concat:" + str(concatres))
             poolres = tf.nn.max_pool(value=concatres, ksize=[1, int(convres2.shape[1]) + int(convres.shape[1]), 1, 1],
-                                     strides=[1, 1, 1, 1], padding="VALID") # maxpooling
+                                     strides=[1, 1, 1, 1], padding="VALID") # maxpooling.
             print("pooling:" + str(poolres))
-            flatres = slim.flatten(poolres)# flat
+            flatres = slim.flatten(poolres)# flat.
             print("flat:" + str(flatres))
-            dropoutres = tf.layers.dropout(inputs=flatres, rate=self.dropout_rate, training=dropout_training_flag)# dropout
+            dropoutres = tf.layers.dropout(inputs=flatres, rate=self.dropout_rate, training=dropout_training_flag)# dropout.
             print("dropout:" + str(dropoutres))
-            predictions = tf.layers.dense(inputs=dropoutres, units=self.output_units, activation=tf.nn.tanh)# dense prediction output
+            predictions = tf.layers.dense(inputs=dropoutres, units=self.output_units, activation=tf.nn.tanh)# dense prediction output.
             print("dense:" + str(predictions))
 
         loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(logits=predictions, labels=labels))
-        # get the loss between predictions and real labels
+        # get the loss between predictions and real labels.
         acc = tf.reduce_mean(tf.cast(tf.equal(tf.argmax(labels, 1), tf.argmax(predictions, 1)), tf.float32))
-        # calculate the accuarcy of the model
+        # calculate the accuracy of the model.
         train_optimization = tf.train.AdamOptimizer(learning_rate=self.initial_learning_rate).minimize(loss)
-        # adam optimization
+        # adam optimization.
 
         return loss, acc, train_optimization, predictions, labels
 
@@ -184,66 +184,123 @@ class DBCN_Model:
         :param dataPreprocessor: An instance of `DataPreprocessor` to process the training, testing and developing data.
         :return: None
         '''
+
+        # The following codes obtain the training, testing and developing data to train the model.
         trainX, trainY, trainFileNameNoDict = dataPreprocessor.getTrainData()
+        # training data, including inputs (trainX), labels (trainY), and file-data relationship (trainFileNameNoDict).
         devX, devY, devFileNameNoDict = dataPreprocessor.getDevData()
+        # developing data, including inputs (devX), labels (devY), and file-data relationship (devFileNameNoDict).
         testX, testY, testFileNameNoDict = dataPreprocessor.getTestData()
+        # testing data, including inputs (testX), labels (testY), and file-data relationship (testFileNameNoDict).
+
+        # The following codes process the training data in order to train the model.
         trainDataset = tf.data.Dataset.from_tensor_slices((trainX, trainY))
-
+        # transform training data into tensor slices.
         trainData = trainDataset.shuffle(self.shuffle_size).batch(self.batch_size).repeat()
+        # shuffle and batch the training data.
         iterator = trainData.make_one_shot_iterator()
+        # obtain the iterator of training data.
         next_iterator = iterator.get_next()
+        # obtain the beginning iterator.
         iterations = math.ceil(trainX.shape[0] / self.batch_size)
-        loss, acc, train_optimization, predictions, labels = self.__dbcnModel(sess)
-        previous_best_accuarcy = 0.0
+        # calculate the number of iterations for traverse the training data.
 
+        # prepare for training.
+        loss, acc, train_optimization, predictions, labels = self.__dbcnModel(sess)
+        # build the DBCN model.
         saver = tf.train.Saver()
+        # get the saver to save the best model during training.
         init = tf.global_variables_initializer()
         sess.run(init)
+        # initialize all variables in tensorflow.
+        previous_best_accuracy = 0.0
+        # for recording the highest test accuracy.
+
+        # start training.
         for epoch in range(self.epoch_num):
+            # loop each epoch.
             for iteration in range(iterations):
+                # loop each iteration.
                 trainX_batch, trainY_batch = sess.run(next_iterator)
+                # get the training data.
                 _, trainLoss, trainAcc = sess.run([train_optimization, loss, acc],
                                                   feed_dict={"inputs:0": trainX_batch, "labels:0": trainY_batch,
                                                              "dropout_training_flag:0": True,
                                                              "batchnormalization_training_flag:0": False,
                                                              })
+                # training for obtaining the loss and accuracy.
                 testLoss, testAcc = sess.run([loss, acc],
                                              feed_dict={"inputs:0": testX, "labels:0": testY,
                                                         "dropout_training_flag:0": False,
                                                         "batchnormalization_training_flag:0": False,
                                                         })
+                # use testing data to evaluate current model.
                 devLoss, devAcc = sess.run([loss, acc],
                                            feed_dict={"inputs:0": devX, "labels:0": devY,
                                                       "dropout_training_flag:0": False,
                                                       "batchnormalization_training_flag:0": False,
                                                       })
+                # use developing data to evaluate current model.
                 print("Epoch:", '%03d' % (epoch + 1), "train loss=", "{:.9f}".format(trainLoss), "train acc=",
                       "{:.9f}".format(trainAcc),
                       "test loss=", "{:.9f}".format(testLoss), "test acc=", "{:.9f}".format(testAcc), "dev loss=",
                       "{:.9f}".format(devLoss), "dev acc=", "{:.9f}".format(devAcc))
-                if testAcc > previous_best_accuarcy:
+                #print the training and evaluating results.
+                
+                #The following codes will save the model that have the highest accuracy in modelSavingPath.
+                if testAcc > previous_best_accuracy:
                     saver.save(sess, DBCN_Model.modelSavingPath + "dbcn")
-                    previous_best_accuarcy = testAcc
+                    previous_best_accuracy = testAcc
                     print("Saving current model!")
 
     def test(self, sess, dataPreprocessor):
+        '''
+        Tester of the DBCN model.
+
+        Testing the saved model with the highest test accuracy.
+
+        :param sess: A `tf.Session` representing the session of the tensorflow model.
+        :param dataPreprocessor: An instance of `DataPreprocessor` to process the training, testing and developing data.
+        :return: None
+        '''
+
+        # The following codes build the DBCN model and load the saved model into DBCN for testing.
         _, _, _, _, _ = self.__dbcnModel(sess)
+        # build the DBCN model,
         saver = tf.train.Saver()
+        # get the saver to load the saved model.
         init = tf.global_variables_initializer()
         sess.run(init)
+        # initialize all variables in tensorflow.
         saver.restore(sess, tf.train.latest_checkpoint(DBCN_Model.modelSavingPath))
         print("Loading model completed!")
+        # load the saved model into DBCN.
         graph = tf.get_default_graph()
+        # get the graph for accessing the testing results.
         testX, testY, testFileNameNoDict = dataPreprocessor.getTestData()
+        # get the testing data.
         feed_dict = {"inputs:0": testX, "dropout_training_flag:0": False, "batchnormalization_training_flag:0": False}
+        # form the feed dictionary of testing.
         denseOutput = graph.get_tensor_by_name("concat_pool_flat_output/dense/Tanh:0")
+        # use graph to access the predictions of the model for testing data.
         testY_Predict = sess.run(denseOutput, feed_dict)
+        # testing and get the testing results (predictions).
         predict = sess.run(tf.argmax(testY_Predict, 1))
+        # transform 2-D predictions into 1-D.
         real = sess.run(tf.argmax(testY, 1))
+        # transform 2-D real labels into 1-D.
+
+        # The following codes count the TP, FN, TN and FP numbers then calculate the accuracy, precision, F1, and recall values.
         TP_List = []
+        # List for storing TP data.
         FN_List = []
+        # List for storing FN data.
         TN_List = []
+        # List for storing TN data.
         FP_List = []
+        # List for storing FP data.
+
+        # Traversing the testing results for counting TP, FN, TN and FP
         for i in range(len(predict)):
             if predict[i] == real[i] and predict[i] == 1:
                 TP_List.append(str(testFileNameNoDict[i]).split("-")[0])
@@ -253,16 +310,20 @@ class DBCN_Model:
                 TN_List.append(str(testFileNameNoDict[i]).split("-")[0])
             elif predict[i] != real[i] and predict[i] == 1 and real[i] == 0:
                 FP_List.append(str(testFileNameNoDict[i]).split("-")[0])
+        # calculate and print the evaluating values.
+        Precision = len(TP_List) / (len(TP_List) + len(FP_List))
+        # Precision.
+        Recall = len(TP_List) / len(TP_List) + len(FN_List)
+        # Recall.
+        F1 = 2 * Precision * Recall / (Precision + Recall)
+        # F1.
+        Accuracy = (len(TP_List) + len(TN_List)) / (len(TP_List) + len(TN_List) + len(FP_List) + len(FN_List))
+        # Accuracy.
         print("TP num:" + str(len(TP_List)))
         print("FN num:" + str(len(FN_List)))
         print("TN num:" + str(len(TN_List)))
         print("FP num:" + str(len(FP_List)))
-        return TP_List, FN_List, TN_List, FP_List
-
-
-if __name__ == '__main__':
-    sess = tf.Session()
-    dbcn = DBCN_Model()
-    dataPreprocessor = DataPreprocessor.DataPreprocessor()
-    TP_List, FN_List, TN_List, FP_List = dbcn.test(sess, dataPreprocessor)
-    # dbcn.train(sess,dataPreprocessor)
+        print("Precision=TP/(TP+FP):" + str(Precision))
+        print("Recall=TP/(TP+FN):" + str(Recall))
+        print("F1=2*Precision*Recall/(Precision+Recall)" + str(F1))
+        print("Accuracy=(TP+TN)/(TP+TN+FP+FN)" + str(Accuracy))
