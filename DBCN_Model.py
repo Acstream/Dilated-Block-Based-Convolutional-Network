@@ -181,7 +181,7 @@ class DBCN_Model:
         Training and Saving the model with the highest test accuracy.
 
         :param sess: A `tf.Session` representing the session of the tensorflow model.
-        :param dataPreprocessor: A ``
+        :param dataPreprocessor: An instance of `DataPreprocessor` to process the training, testing and developing data.
         :return: None
         '''
         trainX, trainY, trainFileNameNoDict = dataPreprocessor.getTrainData()
