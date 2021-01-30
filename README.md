@@ -11,7 +11,7 @@ The raw dataset is collected by Ma et al. ([J. Ma, W. Gao, P. Mitra, S. Kwon, B.
 The raw dataset has been processed according to Section 3.2 Data prepraration in our paper and is stored in ./Data (512 topics: 307 for training, 51 for developing, 154 for testing).  
 Therefore, you can use the data in ./Data directly without performing the data prepraration process described in our paper.   
 ## Training & Testing
-We recommend you to use our trained models to test and evaluate:  
+We recommend you to use our trained models directly to test and evaluate:  
 python main.py --dbcn --test -- # test the DBCN model by our trained model saved in ./trained models/networks/dbcn/  
 python main.py --odcn --test -- # test the ODCN model by our trained model saved in ./trained models/networks/odcn/  
 However, if you want to train your own models, you can type:   
