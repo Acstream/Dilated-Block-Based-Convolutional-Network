@@ -7,7 +7,7 @@ gensim==3.8.3
 numpy==1.19.4
 # How to use
 ## Dataset
-The raw dataset is collected by Ma et al. (J. Ma, W. Gao, P. Mitra, S. Kwon, B. J. Jansen, K.-F. Wong, M. Cha, Detecting rumors from microblogs with recurrent neural networks, in: Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016, pp. 3818–3824) and can be downloaded from [here](https://alt.qcri.org/~wgao/data/rumdect.zip). 
+The raw dataset is collected by Ma et al. ([J. Ma, W. Gao, P. Mitra, S. Kwon, B. J. Jansen, K.-F. Wong, M. Cha, Detecting rumors from microblogs with recurrent neural networks, in: Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, 2016, pp. 3818–3824](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)) and can be downloaded from [here](https://alt.qcri.org/~wgao/data/rumdect.zip). 
 The raw dataset has been processed according to Section 3.2 Data prepraration in our paper and is stored in ./Data (512 topics: 307 for training, 51 for developing, 154 for testing).   
 Therefore, you can use the data in ./Data directly without performing the data prepraration process described in our paper.   
 ## Training & Testing
