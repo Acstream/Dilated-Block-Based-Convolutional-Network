@@ -1,7 +1,14 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2021/1/30 15:50
+# @Author  : Yuan Yue (Acstream) and Wang Yanli (lilijodie)
+# @Email   : yuangyue@qq.com
+# @File    : ODCN_Model.py
+
 import math
 import DataPreprocessor
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
+
 
 class ODCN_Model:
     '''This class is created for building, training and testing Ordinary Dilated Convolutional Network (ODCN) from ``Perceiving More Truth:A Dilated-Block-Based Convolutional Network for Rumor Identification``.
@@ -96,16 +103,20 @@ class ODCN_Model:
 
         # The following codes reshape and unstack the input in order to let the input adapt the operation of column-wise dilated convolutional layer.
         with tf.name_scope("inputs"):
-            inputs_reshape = tf.expand_dims(inputs,-1)  # reshape the inputs (expand the dimension of inputs from 3-D to 4-D (Batch,GroupNum,Embedding Size)=>(Batch,GroupNum,Embedding Size,1)).
-            inputs_unstack = tf.unstack(inputs_reshape,axis=2)  # unstack the inputs on the 3rd axis--Embedding Size, the shape of inputs will change to Embedding Size*(Batch,GroupNum,1).
+            inputs_reshape = tf.expand_dims(inputs,
+                                            -1)  # reshape the inputs (expand the dimension of inputs from 3-D to 4-D (Batch,GroupNum,Embedding Size)=>(Batch,GroupNum,Embedding Size,1)).
+            inputs_unstack = tf.unstack(inputs_reshape,
+                                        axis=2)  # unstack the inputs on the 3rd axis--Embedding Size, the shape of inputs will change to Embedding Size*(Batch,GroupNum,1).
 
         # The following codes send the inputs into first dilated block and perform related operations.
         with tf.name_scope("dilated_block_1"):
             convs1 = []  # for collecting the first dilated block results.
-            w1_unstack = tf.unstack(w_dilatedblock_1,axis=1)  # unstack the kernel of the first dilated convolutional layer for column-wise dilated convolution.
+            w1_unstack = tf.unstack(w_dilatedblock_1,
+                                    axis=1)  # unstack the kernel of the first dilated convolutional layer for column-wise dilated convolution.
             # column-wise dilated convolution, batch normalization and activation
             for i in range(len(inputs_unstack)):
-                conv1 = tf.nn.convolution(input=inputs_unstack[i], filter=w1_unstack[i], padding="VALID",dilation_rate=[self.dilation_rate_DilatedBlock_1])
+                conv1 = tf.nn.convolution(input=inputs_unstack[i], filter=w1_unstack[i], padding="VALID",
+                                          dilation_rate=[self.dilation_rate_DilatedBlock_1])
                 bn1 = tf.layers.batch_normalization(conv1, training=batchnormalization_training_flag)
                 ac1 = tf.nn.relu(bn1)
                 convs1.append(ac1)
@@ -115,11 +126,14 @@ class ODCN_Model:
         # The following codes send the first dilated block results into second dilated block and perform related operations.
         with tf.name_scope("dilated_block_2"):
             convs2 = []  # for collecting the second dilated block results.
-            convres1_unstack = tf.unstack(convres1,axis=2)  # unstack the results of the first dilated block for column-wise dilated convolution.
-            w2_unstack = tf.unstack(w_dilatedblock_2,axis=1)  # unstack the kernel of the first dilated convolutional layer for column-wise dilated convolution.
+            convres1_unstack = tf.unstack(convres1,
+                                          axis=2)  # unstack the results of the first dilated block for column-wise dilated convolution.
+            w2_unstack = tf.unstack(w_dilatedblock_2,
+                                    axis=1)  # unstack the kernel of the first dilated convolutional layer for column-wise dilated convolution.
             # column-wise dilated convolution, batch normalization and activation
             for i in range(len(convres1_unstack)):
-                conv2 = tf.nn.convolution(input=convres1_unstack[i], filter=w2_unstack[i], padding="VALID",dilation_rate=[self.dilation_rate_DilatedBlock_2])
+                conv2 = tf.nn.convolution(input=convres1_unstack[i], filter=w2_unstack[i], padding="VALID",
+                                          dilation_rate=[self.dilation_rate_DilatedBlock_2])
                 bn2 = tf.layers.batch_normalization(conv2, training=batchnormalization_training_flag)
                 ac2 = tf.nn.relu(bn2)
                 convs2.append(ac2)
@@ -128,13 +142,16 @@ class ODCN_Model:
 
         # The following codes perform maxpooling, flat and dropout operations on the results of second dilated block.
         with tf.name_scope("pool_flat_output"):
-            poolres = tf.nn.max_pool(value=convres2,ksize=[1, int(convres2.shape[1]), 1, 1],strides=[1, 1, 1, 1], padding="VALID")  # maxpooling.
+            poolres = tf.nn.max_pool(value=convres2, ksize=[1, int(convres2.shape[1]), 1, 1], strides=[1, 1, 1, 1],
+                                     padding="VALID")  # maxpooling.
             print("pooling:" + str(poolres))
             flatres = slim.flatten(poolres)  # flat.
             print("flat:" + str(flatres))
-            dropoutres = tf.layers.dropout(inputs=flatres, rate=self.dropout_rate,training=dropout_training_flag)  # dropout.
+            dropoutres = tf.layers.dropout(inputs=flatres, rate=self.dropout_rate,
+                                           training=dropout_training_flag)  # dropout.
             print("dropout:" + str(dropoutres))
-            predictions = tf.layers.dense(inputs=dropoutres, units=self.output_units,activation=tf.nn.tanh)  # dense prediction output.
+            predictions = tf.layers.dense(inputs=dropoutres, units=self.output_units,
+                                          activation=tf.nn.tanh)  # dense prediction output.
             print("dense:" + str(predictions))
 
         loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits_v2(logits=predictions, labels=labels))
@@ -282,19 +299,31 @@ class ODCN_Model:
             elif predict[i] != real[i] and predict[i] == 1 and real[i] == 0:
                 FP_List.append(str(testFileNameNoDict[i]).split("-")[0])
         # calculate and print the evaluating values.
-        Precision = len(TP_List) / (len(TP_List) + len(FP_List))
-        # Precision.
-        Recall = len(TP_List) / len(TP_List) + len(FN_List)
-        # Recall.
-        F1 = 2 * Precision * Recall / (Precision + Recall)
-        # F1.
+        Precision_R = len(TP_List) / (len(TP_List) + len(FP_List))
+        # Precision Rumor.
+        Precision_NR = len(TN_List) / (len(TN_List) + len(FN_List))
+        # Precision Non Rumor.
+        Recall_R = len(TP_List) / (len(TP_List) + len(FN_List))
+        # Recall Rumor.
+        Recall_NR = len(TN_List) / (len(TN_List) + len(FP_List))
+        # Recall Non Rumor.
+        F1_R = 2 * Precision_R * Recall_R / (Precision_R + Recall_R)
+        # F1 Rumor.
+        F1_NR = 2 * Precision_NR * Recall_NR / (Precision_NR + Recall_NR)
+        # F1 Non Rumor.
+        F1_AVG = (F1_R + F1_NR) / 2
+        # F1 Average.
         Accuracy = (len(TP_List) + len(TN_List)) / (len(TP_List) + len(TN_List) + len(FP_List) + len(FN_List))
         # Accuracy.
-        print("TP num:" + str(len(TP_List)))
-        print("FN num:" + str(len(FN_List)))
-        print("TN num:" + str(len(TN_List)))
-        print("FP num:" + str(len(FP_List)))
-        print("Precision=TP/(TP+FP):" + str(Precision))
-        print("Recall=TP/(TP+FN):" + str(Recall))
-        print("F1=2*Precision*Recall/(Precision+Recall)" + str(F1))
-        print("Accuracy=(TP+TN)/(TP+TN+FP+FN)" + str(Accuracy))
+        print("TP number=" + str(len(TP_List)))
+        print("FN number=" + str(len(FN_List)))
+        print("TN number=" + str(len(TN_List)))
+        print("FP number=" + str(len(FP_List)))
+        print("Precision_R=TP/(TP+FP)=" + str("{:.9f}".format(Precision_R)))
+        print("Precision_NR=TN/(TN+FN)=" + str("{:.9f}".format(Precision_NR)))
+        print("Recall_R=TP/(TP+FN)=" + str("{:.9f}".format(Recall_R)))
+        print("Recall_NR=TN/(TN+FP)=" + str("{:.9f}".format(Recall_NR)))
+        print("F1_R=2*Precision_R*Recall_R/(Precision_R+Recall_R)=" + str("{:.9f}".format(F1_R)))
+        print("F1_NR=2*Precision_NR*Recall_NR/(Precision_NR+Recall_NR)=" + str("{:.9f}".format(F1_NR)))
+        print("F1_AVG=(F1_R+F1_NR)/2=" + str("{:.9f}".format(F1_AVG)))
+        print("Accuracy=(TP+TN)/(TP+TN+FP+FN)=" + str("{:.9f}".format(Accuracy)))
